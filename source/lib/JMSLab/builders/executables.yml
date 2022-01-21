@@ -1,8 +1,0 @@
-latex:     pdflatex
-lyx:       lyx
-python:    python
-r:         Rscript
-matlab:    matlab
-stata:     StataMP-64
-sas:       sas_en
-tablefill: ''
