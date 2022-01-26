@@ -20,7 +20,7 @@ def main():
         df_counts.columns = ["word", "n"]
         
         df_counts.to_csv(os.path.join(outstub, f'lgr{lgr}_counts.csv'),
-                         encoding = 'utf-8')
+                         encoding = 'utf-8', index = False)
 
 
 def make_words_dataset(df, key_vars = ["page", "paragraph_id", "sentence_num"]):
