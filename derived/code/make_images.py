@@ -27,7 +27,7 @@ def main():
                                   thread_count = threads)
         end_conv = time.time()
 
-        outfolder = os.path.join(outstub, lgr)
+        outfolder = os.path.join(outstub, str(lgr))
         make_output_dir(outfolder)
 
         start_sav = time.time()
