@@ -1,20 +1,23 @@
 import os
 import re
+import pandas as pd
 
 def main():
     instub  = 'derived/output/text'
     outstub = 'derived/output/text'
 
-    laroplans = ['1962', '1969', '1980']
-    first_nonindex_page = {'1962':8, '1969':4, '1980':2}
+    df_lgr = pd.read_csv('laroplaner.csv')
+    lgr_years = df_lgr.year.tolist()
     
-    for lgr in laroplans:
+    for lgr in lgr_years:
+
+        fp = df_lgr.loc[df_lgr.year == lgr].first_nonindex_page.values[0]
 
         file = open(os.path.join(instub, f'laroplan_{lgr}.txt'), 'r', encoding = 'utf-8')
         lgr_raw_text = ''.join(file.readlines())
         file.close()
 
-        lgr_text = remove_toc_pages(lgr_raw_text, first_nonindex_page[lgr])
+        lgr_text = remove_toc_pages(lgr_raw_text, fp)
         lgr_text = clean_text(lgr_text)
         lgr_text = fixes_to_punctuation(lgr_text)
         lgr_text = lgr_text.strip()
@@ -30,7 +33,7 @@ def remove_toc_pages(text, first_page):
     return text[text.find(f'\n\n***** PAGE {first_page} *****'):]
 
 def clean_text(text):
-    
+
     text = re.sub(r"(?: )?\x0c(?: )?", "", text)   # Drop \x0c symbol
 
     text = re.sub(r"\n:?\d{1,3}\n", "", text)                            # Drop page numbering (sometimes has : before)
@@ -43,10 +46,10 @@ def clean_text(text):
     return(text)
 
 def fixes_to_punctuation(text):
-    
-    text = text.replace(" . ", "")                                    # Remove . surrounded by spaces
-    text = re.sub(r"([a-z0-9åäöø])\.( [a-zåäöø])", r"\1\2", text)     # Remove . if next sentences starts with lowercase
-    text = re.sub(r"([a-zåäöø]) ?(\,|;) ([A-ZÅÄÖØ])", r"\1. \3", text) # , and ; should be . if next sentence starts with uppercase
+
+    text = text.replace(" . ", "")                                      # Remove . surrounded by spaces
+    text = re.sub(r"([a-z0-9åäöø])\.( [a-zåäöø])", r"\1\2", text)       # Remove . if next sentences starts with lowercase
+    text = re.sub(r"([a-zåäöø]) ?(\,|;) ([A-ZÅÄÖØ])", r"\1. \3", text)  # , and ; should be . if next sentence starts with uppercase
 
     return(text)
 

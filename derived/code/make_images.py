@@ -1,5 +1,6 @@
 import os
 import time
+import pandas as pd
 from pdf2image import convert_from_path
 
 def main():
@@ -9,21 +10,20 @@ def main():
     quality = 400
     threads = 4
 
-    laroplans = ['1962', '1969', '1980']
-    fl_pages = {'1962':[10, 441],
-                '1969':[11, 225],
-                '1980':[9,  154]}
+    df_lgr = pd.read_csv('laroplaner.csv')
+    lgr_years = df_lgr.year.tolist()
 
-    for lgr in laroplans:
+    for lgr in lgr_years:
 
-        f = f'Laroplan {lgr}.pdf'
-        if lgr == '1980':
-            f = f'Laroplan {lgr} (subject).pdf'
+        f = df_lgr.loc[df_lgr.year == lgr].file[0]
+
+        fp = df_lgr.loc[df_lgr.year == lgr].first_rel_page.values[0]
+        lp = df_lgr.loc[df_lgr.year == lgr].last_rel_page.values[0]
         
         start_conv = time.time()
         pages = convert_from_path(os.path.join(instub, f), 
                                   dpi = quality, 
-                                  first_page = fl_pages[lgr][0], last_page = fl_pages[lgr][1],
+                                  first_page = fp, last_page = lp,
                                   thread_count = threads)
         end_conv = time.time()
 
@@ -35,7 +35,7 @@ def main():
             page.save(os.path.join(outfolder, f'page_{i}.jpg'), 'JPEG')
         end_sav = time.time()
 
-        if lgr == laroplans[0]:
+        if lgr == lgr_years[0]:
             f_log = open(os.path.join(outstub, 'pdf2jpg_runtimes.log'), 'w')
 
         runtime_conv = round((end_conv - start_conv)/60, 2)
@@ -45,7 +45,7 @@ def main():
         f_log.write(f'Conversion runtime:    {runtime_conv} minutes.\n')
         f_log.write(f'Saving files runtime:    {runtime_sav} minutes.\n\n')
 
-        if lgr == laroplans[-1]:
+        if lgr == lgr_years[-1]:
             f_log.close()
 
 def make_output_dir(outfolder):

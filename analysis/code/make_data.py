@@ -6,9 +6,10 @@ def main():
     instub  = 'derived/output/text'
     outstub = 'analysis/output'
 
-    laroplans = ['1962', '1969', '1980']
+    df_lgr = pd.read_csv('laroplaner.csv')
+    lgr_years = df_lgr.year.tolist()
     
-    for lgr in laroplans:
+    for lgr in lgr_years:
 
         file = open(os.path.join(instub, f'lgr{lgr}_clean.txt'), 
                     'r', encoding = 'utf-8')

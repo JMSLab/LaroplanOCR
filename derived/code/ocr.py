@@ -1,29 +1,31 @@
 import os
 import time
-import pytesseract
-import layoutparser as lp
 import cv2
+import layoutparser as lp
+import pandas       as pd
 
 def main():
     instub  = 'derived/output/images'
     outstub = 'derived/output/text'
 
-    laroplans = ['1962', '1969', '1980']
-    fl_pages = {'1962':[10, 441],
-                '1969':[11, 225],
-                '1980':[9,  154]}
+    df_lgr = pd.read_csv('laroplaner.csv')
+    lgr_years = df_lgr.year.tolist()
+
     ocr_agent = lp.TesseractAgent(languages = 'swe')
 
-    for lgr in laroplans:
+    for lgr in lgr_years:
 
-        pages = [f'page_{i}.jpg' for i in range(fl_pages[lgr][1] - fl_pages[lgr][0] + 1)]
+        f_p = df_lgr.loc[df_lgr.year == lgr].first_rel_page.values[0]
+        l_p = df_lgr.loc[df_lgr.year == lgr].last_rel_page.values[0]
+
+        pages = [f'page_{i}.jpg' for i in range(l_p - f_p + 1)]
 
         laroplan_text = ''
 
         start = time.time()
         for i, pagefile in enumerate(pages):
 
-            page = cv2.imread(os.path.join(instub, lgr, pagefile))
+            page = cv2.imread(os.path.join(instub, str(lgr), pagefile))
 
             result = ocr_agent.detect(page, return_response = True)
 
@@ -39,7 +41,7 @@ def main():
         f.close()
 
         # Log runtime
-        if lgr == laroplans[0]:
+        if lgr == lgr_years[0]:
             f_log = open(os.path.join(outstub, 'ocr_runtimes.log'), 'w')
 
         runtime = round((end - start)/60, 2)
@@ -47,7 +49,7 @@ def main():
         f_log.write(f'*** LAROPLAN {lgr} ***\n')
         f_log.write(f'OCR runtime:    {runtime} minutes.\n\n')
 
-        if lgr == laroplans[-1]:
+        if lgr == lgr_years[-1]:
             f_log.close()
 
 if __name__ == '__main__':
