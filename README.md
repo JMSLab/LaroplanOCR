@@ -3,7 +3,7 @@
 Swedish primary school curricula (Läroplaner för grundskolan) in digital format.
 
 We use optical character recognition (OCR) to transform curricula in image format into text.
-For each curriculum we construct datasets at the paragraph and sentence levels, and a dataset that counts words.
+For each curriculum we construct datasets at the paragraph, sentence, and wor levels.
 
 ### Using the Datasets
 
