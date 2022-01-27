@@ -42,7 +42,7 @@ To do so, you need the following prerequisites.
    - `/orig/` contains curricula in pdf format
    - `/docs/` contains documentation
 
-- `./derived/` contains code that runs the OCR and cleanes its output.
+- `./derived/` contains code that runs the OCR and cleans its output.
    - `/code/make_images.py` transforms curricula in pdf format to separate jpg files, the jpg files are not included in the repo
    - `/code/ocr.py` reads the jpg files into text
    - `/code/clean.py` cleans the text files produced by the OCR
@@ -57,6 +57,13 @@ Each folder hosts an `/output/` subfolder where output from each script is saved
 #### Quick start
 
 1. Clone the repository to your local machine.
+
+    ```
+    # Using SSH
+    git lfs clone git@github.com:JMSLab/LaroplanOCR.git
+    # Using HTTPS
+    git lfs clone https://github.com/JMSLab/LaroplanOCR.git
+    ```
 
 2. Install dependencies. From the root of the repo run:
 
@@ -80,8 +87,8 @@ Each folder hosts an `/output/` subfolder where output from each script is saved
 
 ### Citations
 
-* Hermo, S., Lundqvist, C., Päällysaho, M., Seim, D., Shapiro, Jesse M., and Trollback, S. 2021. LaroplanOCR. Code and data repository at https://github.com/JMSLab/LaroplanOCR.
-* Hermo, S., Päällysaho, M., Seim, D., and Shapiro, Jesse M. 2021. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence. NBER Working Paper Number 29135.
+* Hermo, S., Lundqvist, C., Päällysaho, M., Seim, D., Shapiro, Jesse M., and Trollbäck, S. 2021. LaroplanOCR. Code and data repository at https://github.com/JMSLab/LaroplanOCR.
+* Hermo, S., Päällysaho, M., Seim, D., and Shapiro, Jesse M. 2021. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence. NBER Working Paper Number 29135. URL: https://www.nber.org/papers/w29135.
 
 
 ### Acknowledgments
