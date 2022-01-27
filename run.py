@@ -10,13 +10,14 @@ def main():
                'analysis/code/count.py']
     
     log_file = open("run.log", 'w')
-    log_file.write(f"Compilation started at {time.strftime('%I:%M%p %Z on %b %d, %Y\n')}")
-        
-    for script in scripts:
-        os.system(f'python {script}')
-        log_file.write(f"{script} completed at {time.strftime('%I:%M%p %Z\n')}")
+    log_file.write("Started at " + time.strftime('%I:%M:%S%p %Z on %b %d, %Y\n\n'))
     
-    log_file.write(f"Finished at {time.strftime('%I:%M%p %Z\n')}")
+    for script in scripts:
+        log_file.write(time.strftime('%I:%M:%S%p') + f"   :{script} started\n")
+        os.system(f'python {script}')
+        log_file.write(time.strftime('%I:%M:%S%p') + f"   :{script} completed\n")
+    
+    log_file.write("\nFinished at " + time.strftime('%I:%M:%S%p %Z on %b %d, %Y\n'))
     log_file.close()
 
 
