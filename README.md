@@ -4,9 +4,17 @@ Swedish primary school curricula (Läroplaner för grundskolan) in digital forma
 
 We use optical character recognition (OCR) to transform curricula in image format into text.
 For each curriculum we construct datasets at the paragraph and sentence levels, and a dataset that counts words.
-These datasets are stored in [`./analysis/output/`](analysis/output).
 
-### Prerequisites
+### Using the Datasets
+
+In [`./analysis/output/`](analysis/output) you will find the following for the Läroplan for year `YYYY`:
+* `lgrYYYY_counts.csv`: counts of individual words
+* `lgrYYYY_paragraphs.csv`: individual paragraphs with page of appearance
+* `lgrYYYY_sentences.csv`: individual sentences with page and paragraph of appearance
+
+### Using the Code
+
+#### Prerequisites
 
 You may want to compile some or all of the code yourself.
 To do so, you need the following prerequisites.
@@ -26,7 +34,7 @@ To do so, you need the following prerequisites.
 - For Mac, you also need to install `poppler for Mac` in order to use the python package `pdf2image`, see [here](https://github.com/Belval/pdf2image/blob/master/README.md).
 
 
-### Repository structure
+#### Repository structure
 
 - `./run.py` is a python script used to build the entire repository
 
@@ -46,7 +54,7 @@ To do so, you need the following prerequisites.
 Each folder hosts an `/output/` subfolder where output from each script is saved.
 
 
-### Quick start
+#### Quick start
 
 1. Clone the repository to your local machine
 
@@ -70,8 +78,13 @@ Each folder hosts an `/output/` subfolder where output from each script is saved
     For example, `python derived/code/make_images.py` will transform the pdf files of the curricula into jpg files.
 
 
-### Citations and Expectations for Usage
+### Citations
 
-This repository is based on analysis in 
-Hermo, S., Päällysaho, M., Seim, D., and Shapiro, Jesse M. 2021. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence.
+* Hermo, S., Lundqvist, C., Päällysaho, M., Seim, D., Shapiro, Jesse M., and Trollback, S. 2021. LaroplanOCR. Code and data repository at https://github.com/JMSLab/LaroplanOCR.
+* Hermo, S., Päällysaho, M., Seim, D., and Shapiro, Jesse M. 2021. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence.
+
+
+### Acknowledgments
+
+We thank our dedicated research assistants for contributions to this project.
 
