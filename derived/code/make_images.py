@@ -15,7 +15,7 @@ def main():
 
     for lgr in lgr_years:
 
-        f = df_lgr.loc[df_lgr.year == lgr].file[0]
+        f = df_lgr.loc[df_lgr.year == lgr].file.values[0]
 
         fp = df_lgr.loc[df_lgr.year == lgr].first_rel_page.values[0]
         lp = df_lgr.loc[df_lgr.year == lgr].last_rel_page.values[0]
