@@ -1,94 +1,97 @@
-## JMSLab Template
+## LaroplanOCR
 
-A template for research projects developed by JMSLab.
+Swedish primary school curricula (Läroplaner för grundskolan) in digital format.
 
-### Prerequisites
+We use optical character recognition (OCR) to transform curricula in image format into text.
+For each curriculum we construct datasets at the paragraph, sentence, and word levels.
 
-- We recommend installing [Anaconda](https://www.anaconda.com/products/individual) 3.8 or above to get Python.
-    - We use Python to run [SCons](https://scons.org); custom SCons builders are also written in Python.
-    - You will need to install the dependencies in `source/lib/requirements.txt` (including SCons). See [quick start](#quick-start) below.
-- [git](https://git-scm.com/downloads) for version control.
-    - And [git-lfs](https://git-lfs.github.com/) for versioning large files.
-- [LyX](https://www.lyx.org/Download) for writing documents.
+### Using the Datasets
 
-In addition, each project may use other specialized tools. For the working example in this template, install:
+In [`./analysis/output/`](analysis/output) you will find the following for the Läroplan for year `YYYY`:
+* `lgrYYYY_counts.csv`: counts of individual words
+* `lgrYYYY_paragraphs.csv`: individual paragraphs with page of appearance
+* `lgrYYYY_sentences.csv`: individual sentences with page and paragraph of appearance
 
-- [R](https://www.r-project.org/)
-- [Stata](https://www.stata.com/install-guide/)
-- [Matlab](https://www.mathworks.com/help/install/install-products.html)
+### Using the Code
 
-### Repository Structure
+#### Prerequisites
 
-- `source/` contains source scripts and (small) raw data.
+You may want to compile some or all of the code yourself.
+To do so, you need the following prerequisites.
 
-- `output/` and `datastore/` should mimic the folder structure in `source/`.
+- A `python` compiler version 3.8 or above.
+    - We recommend installing [Anaconda](https://www.anaconda.com/products/individual) to get Python
+    - You will need to install the dependencies in `requirements.txt`. See [quick start](#quick-start) below
 
-    - For instance, the code in `source/analysis/plots/` saves output to `output/analysis/plots/`.
+- [`git`](https://git-scm.com/downloads) for version control.
+    - And [`git-lfs`](https://git-lfs.github.com/) for versioning large files
 
-    - `datastore/` is not under version control; a project's large files are stored here.
+- The software `Tesseract-OCR`:
+    - For Windows, install following steps [here](https://stackoverflow.com/a/53672281). For Mac, follow steps in section "Installing Tesseract on Mac" [here](https://guides.library.illinois.edu/c.php?g=347520&p=4121425)
+    - Make sure to add "Swedish" when installing, in "Additional language data (download)"
+    - Add the `Tesseract-OCR` installation folder to your path
 
-    - With the exception of large raw files, every file in these folders is produced by `source/`.
+- For Mac, you also need to install `poppler for Mac` in order to use the python package `pdf2image`, see [here](https://github.com/Belval/pdf2image/blob/master/README.md).
 
-- `temp/` is not under version control; create the folder after cloning the repository.  `temp/` may used by scripts to store temporary or intermediate files (though some projects may not need it).
 
-- _Issue folders_: When working on issue branches, you may create an issue folder at the top of the directory under version control (e.g. `./issue1_short_task_name`).
+#### Repository structure
 
-    - Code and (small) deliverables related to the issue are organized inside the issue folder. See [this example](https://github.com/JMSLab/Template/blob/05337cfa4a50ecfeda56afbdd295378d8e071a39/issue10_readme).
+- `./run.py` is a python script used to build the entire repository.
 
-    - The issue folder should be deleted after the issue is resolved and is not merged into the main branch.
+- `./raw/` contains pdf files of Swedish curricula (Läroplaner).
+   - `/orig/` contains curricula in pdf format
+   - `/docs/` contains documentation
 
-### Quick start
+- `./derived/` contains code that runs the OCR and cleans its output.
+   - `/code/make_images.py` transforms curricula in pdf format to separate jpg files, the jpg files are not included in the repo
+   - `/code/ocr.py` reads the jpg files into text
+   - `/code/clean.py` cleans the text files produced by the OCR
 
-1. Open the command-line and clone the repository. For example,
+- `./analysis/` constructs datasets from the digitized text of each curricula.
+   - `/code/make_data.py` transforms the cleaned text files into paragraph- and sentence-level datasets
+   - `/code/count.py` counts all appearances of words in each curricula
+
+Each folder hosts an `/output/` subfolder where output from each script is saved.
+
+
+#### Quick start
+
+1. Clone the repository to your local machine.
 
     ```
-    git clone https://github.com/JMSLab/Template ProjectName
-    cd ProjectName
+    # Using SSH
+    git lfs clone git@github.com:JMSLab/LaroplanOCR.git
+    # Using HTTPS
+    git lfs clone https://github.com/JMSLab/LaroplanOCR.git
     ```
 
-2. Create a symbolic link called `datastore` to _a local copy_ the project's datastore, if one exists for the project (e.g. a Dropbox or Google Drive folder).
-
-    - Do _not_ link a "live" copy of the datastore (i.e. one that is synchronized to the internet). Work with a local, off-line copy before modifying the live copy;  otherwise the data may get unintentionally overwritten for everyone using the datastore.
-
-3. Install dependencies:
+2. Install dependencies. From the root of the repo run:
 
     ```
-    pip install -r source/lib/requirements.txt
+    pip install -r requirements.txt
     ```
 
-    (If using `conda`, run `conda install --file source/lib/requirements.txt`.)  Requirements for other languages, should there be any, will be found in `source/lib/requirements.{ext}` with `{ext}` equal to `do` (Stata), `r` (R), `m` (Matlab), and so on.
+    (If using `conda`, run `conda install --file source/lib/requirements.txt`.)
 
-4. Make sure that all the required program executables are in your system's path.
+3. Make sure that all the required program executables are in your system's path.
 
-    - The default names that SCons assumes for the programs are in `source/lib/JMSLab/builders/executables.yml`.
+4. To compile the entire project, open the command-line and run
 
-    - To have SCons use a custom executable name or path, define a command-line (environment) variable named `JMSLAB_EXE_PROGRAM`. e.g. On Windows, `SET JMSLAB_EXE_STATA=StataSE.exe` or `SET JMSLAB_EXE_STATA=C:\Program Files (x86)\Stata16\StataSE.exe`.
+    ```
+    python run.py
+    ```
 
-5. To compile the project, open the command-line and run `scons` from the project's root folder.
+    You may also compile specific steps of the pipeline.
+    For example, `python derived/code/make_images.py` will transform the pdf files of the curricula into jpg files.
 
-    - To run a given script or create a given file, run `scons path/to/script_or_file`; this will recursively run all the dependencies required to run the script or create the file.  e.g.  `scons output/derived/wb_clean/gdp_education.csv`.
 
-### SConscript files
+### Citations
 
-In order to integrate a new script into the SCons build, you need to modify the SConscript file in the corresponding `source/` sub-folder.  For example, to add `source/derived/wb_clean/takelogs.do` to the SCons build, add an entry to `source/derived/SConscript`. In this case:
+* Hermo, S., Lundqvist, C., Päällysaho, M., Seim, D., Shapiro, Jesse M., and Trollbäck, S. 2021. LaroplanOCR. Code and data repository at https://github.com/JMSLab/LaroplanOCR.
+* Hermo, S., Päällysaho, M., Seim, D., and Shapiro, Jesse M. 2021. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence. NBER Working Paper Number 29135. URL: https://www.nber.org/papers/w29135.
 
-```python
-target = ['#output/derived/wb_clean/gdp_education_logs.csv']
-source = ['#source/derived/wb_clean/takelogs.do',
-          '#output/derived/wb_clean/gdp_education.csv']
-env.Stata(target, source)
-```
 
-- `target` is a list with all of the files produced by the script.
+### Acknowledgments
 
-- `source` is a list with the script's name and all of the files used as input; the script _must_ be the first element of the list.
+We thank our dedicated research assistants for contributions to this project.
 
-- `env.Stata` is the Stata builder provided in `source/lib/JMSLab/builders`; this is imported and saved as part of the `env` object in the `SConstruct` file at the root of the project.
-
-- For tips on batch-specifying targets and sources, see [./docs/batch_specifying.md](./docs/batch_specifying.md).
-
-### Citations and Expectations for Usage
-
-This template is based on [gslab-econ/Template/v4.1.3](https://github.com/gslab-econ/template/releases/tag/4.1.3) and [gslab-python/v4.1.4](https://github.com/gslab-econ/gslab_python/releases/tag/v4.1.4).
-
-It was designed for use in JMSLab. You are welcome to use it in your own research, as long as you (i) let @jmshapir know by e-mail that you plan to do this and (ii) agree to help maintain the template in the future.
