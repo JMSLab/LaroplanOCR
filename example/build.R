@@ -33,11 +33,10 @@ wildcard_words <- df_keywords[df_keywords$wildcard == 1, ]$keyword
 
 df_wildcard <- data.frame()
 for (ww in wildcard_words) {
-  df_word     <- df %>% filter(grepl(ww, word))
+  df_word         <- df %>% filter(grepl(ww, word))
   
   df_word$keyword <- ww
-
-  df_wildcard <- rbind(df_wildcard, df_word)
+  df_wildcard     <- rbind(df_wildcard, df_word)
 }
 df_wildcard$approach <- "wildcard"
 
