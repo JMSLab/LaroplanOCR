@@ -12,7 +12,7 @@ In [`./analysis/output/`](analysis/output) you will find the following for the L
 * `lgrYYYY_paragraphs.csv`: individual paragraphs with page of appearance
 * `lgrYYYY_sentences.csv`: individual sentences with page and paragraph of appearance
 
-In the folder [`./example/`](example) we provide an illustration on how to use the data to search for counts of a desired set of words.
+In the folder [`./example/`](example) we provide an illustration on how to use the data to search for, and plot, counts of a desired set of words.
 
 ### Using the Code
 
