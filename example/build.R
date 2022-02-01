@@ -2,7 +2,7 @@ remove(list=ls())
 library(dplyr)
 library(ggplot2)
 
-# Load words counts data
+# Load data
 
 lgr_years <- c(1962, 1969, 1980)
 
@@ -15,7 +15,6 @@ for (lgr in lgr_years) {
   df <- rbind(df, df_lgr)
 }
 
-# Load desired keywords
 
 df_keywords <- read.table('keywords.csv', sep = ',', header = T,
                           fileEncoding = 'utf-8')
@@ -46,6 +45,7 @@ df_wildcard$approach <- "wildcard"
 
 
 # Group counts by keywords
+
 df_counts <- df_counts %>%
   group_by(approach, keyword, year) %>%
   summarize(Count = sum(n))
@@ -66,4 +66,4 @@ ggplot(df_counts,
         panel.grid.major.x = element_blank(),
         panel.grid.minor.x = element_blank())
   
-ggsave("figure.png", height = 4, width = 5.5)
+ggsave("keywords.png", height = 4, width = 5)
