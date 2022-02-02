@@ -2,7 +2,7 @@
 This directory houses the original Läroplaner för grundskolan.
 
 ### Source
-The following files were downloaded in December 2020 from the corresponding links:
+The following files were downloaded from the website of the [Gothenburg University Publications Electronic Archive (GUPEA)](https://gupea.ub.gu.se) in December 2020 from the corresponding links:
 * [1955](https://gupea.ub.gu.se/handle/2077/51176)
 * [1962](https://gupea.ub.gu.se/handle/2077/50232)
 * [1969](https://gupea.ub.gu.se/handle/2077/30902)

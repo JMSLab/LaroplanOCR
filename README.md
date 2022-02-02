@@ -12,6 +12,8 @@ In [`./analysis/output/`](analysis/output) you will find the following for the L
 * `lgrYYYY_paragraphs.csv`: individual paragraphs with page of appearance
 * `lgrYYYY_sentences.csv`: individual sentences with page and paragraph of appearance
 
+In the folder [`./example/`](example) we provide an illustration on how to use the data to search for, and plot, counts of a desired set of words.
+
 ### Using the Code
 
 #### Prerequisites
@@ -71,7 +73,7 @@ Each folder hosts an `/output/` subfolder where output from each script is saved
     pip install -r requirements.txt
     ```
 
-    (If using `conda`, run `conda install --file source/lib/requirements.txt`.)
+    (If using `conda`, run `conda install --file requirements.txt`.)
 
 3. Make sure that all the required program executables are in your system's path.
 
