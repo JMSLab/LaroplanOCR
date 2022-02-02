@@ -17,4 +17,6 @@ Run with `./example/` as working directory.
 
 We show counts for each keyword using the 'wildcard' approach only.
 
-![figure](keywords.png)
+<p align="center">
+    <img src = "./keywords.png" width = "600" >
+</p>
