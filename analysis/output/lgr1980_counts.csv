@@ -4,12 +4,11 @@ word,n
 1700-talet,1
 1700-talets,1
 180?,1
-1okalt,1
 1—7,1
 4-—8,1
 9s,1
-=,5
-a,40
+=,4
+a,41
 abraham,1
 absolut,1
 accentuering,1
@@ -157,7 +156,7 @@ användningen,6
 användningsområden,3
 används,8
 använt,1
-ao,2
+ao,1
 apparatur,1
 ar*****,1
 arbeta,49
@@ -700,6 +699,7 @@ co,1
 collage,1
 cykelturer,1
 cylinder,1
+cz,1
 dag,4
 dagar,4
 dagböcker,3
@@ -1027,7 +1027,7 @@ europa,3
 eventuell,1
 eventuella,3
 eventuellt,2
-ex,83
+ex,84
 exempel,14
 exempelvis,20
 exemplen,1
@@ -2475,7 +2475,7 @@ kursernas,1
 kursmoment,1
 kursplan,6
 kursplanen,6
-kursplaner,48
+kursplaner,47
 kursplanerna,7
 kursplanernas,2
 kvadranten,1
@@ -2531,6 +2531,7 @@ könstillhörighet,1
 köp,3
 köpa,1
 l,1
+l1okalt,1
 laborationer,2
 laborativ,1
 laborativa,3
@@ -3249,7 +3250,7 @@ nödvändig,5
 nödvändiga,9
 nödvändigt,8
 nöjesindustrins,1
-o,87
+o,90
 oavsett,4
 obegåvade,1
 obekanta,1
@@ -3265,7 +3266,7 @@ oc,1
 och,2667
 ocheller,2
 också,126
-od,19
+od,17
 odling,2
 odlingsbar,1
 offentlig,1
@@ -3322,12 +3323,12 @@ omvärlden,2
 omvärldskunskap,1
 omväxling,1
 ont,3
-oo,25
+oo,27
 opartiskt,1
 opersonliga,1
 opinioner,1
 optiska,1
-oqo,6
+oqo,8
 ord,41
 ord-,2
 ordbildning,1
@@ -3746,6 +3747,7 @@ riskerar,3
 rita,1
 ritningar,3
 ritningars,1
+rn,1
 ro,1
 roa,3
 roll,26
@@ -3788,12 +3790,13 @@ rätta,1
 rätten,1
 rättfärdighet,1
 rättighet,1
-rättigheter,10
+rättigheter,9
 rättigheterna,3
 rättslig,1
 rättsliga,1
 rättssamhället,1
 rättvisa,2
+räåttigheter,1
 råd,3
 rådande,2
 rådde,1
@@ -4312,7 +4315,7 @@ språkutveckling,5
 språkutvecklingen,1
 spänning,4
 spår,1
-ss,1
+ss,2
 ssa-råden,1
 ssa-rådet,1
 ssändarens,1
@@ -4393,6 +4396,7 @@ strängt,1
 sträva,8
 strävan,4
 strävanden,1
+sttejoeta,1
 studera,21
 studerade,2
 studerar,2
@@ -4578,7 +4582,7 @@ sökt,1
 sökta,1
 sömn,1
 sömnad,1
-t,83
+t,84
 ta,68
 tabeller,4
 taget,2
@@ -4651,7 +4655,7 @@ terminskurser,1
 terräng,5
 terrängförhållanden,1
 terrängslingor,1
-tex,8
+tex,7
 text,3
 texta,1
 texten,2
@@ -5343,6 +5347,7 @@ vuxenvärlden,1
 vuxna,17
 vuxnas,4
 vuxne,1
+vv2,1
 vykort,1
 väcka,5
 väckelserörelserna,1
