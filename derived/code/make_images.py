@@ -8,7 +8,7 @@ def main():
     outstub = 'derived/output/images'
 
     quality = 400
-    threads = 4
+    threads = 6
 
     df_lgr = pd.read_csv('laroplaner.csv')
     lgr_years = df_lgr.year.tolist()
@@ -31,8 +31,7 @@ def main():
         make_output_dir(outfolder)
 
         start_sav = time.time()
-        for i, page in enumerate(pages):
-            page.save(os.path.join(outfolder, f'page_{i}.jpg'), 'JPEG')
+        save_files(pages, lgr, outfolder)
         end_sav = time.time()
 
         if lgr == lgr_years[0]:
@@ -55,6 +54,15 @@ def make_output_dir(outfolder):
 
     return None
 
+def save_files(pages, lgr, outfolder):
+
+    for i, page in enumerate(pages):
+        if lgr == "1994b" and i == 17: # Skip cover in middle of pdf
+            continue
+        else:
+            page.save(os.path.join(outfolder, f'page_{i}.jpg'), 'JPEG')
+
+    return None
 
 if __name__ == '__main__':
     main()
