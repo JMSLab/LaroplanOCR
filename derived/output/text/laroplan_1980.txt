@@ -19,7 +19,7 @@ Fostran och utveckling 16
 
 RIKTLINJER FÖR ARBETET 20
 
-Innehåll och samverkan ?20
+Innehåll och samverkan 20
 Skolan — ett centrum för samarbete 20
 Skoldagen 20
 Samverkan mellan skola och förskola 24
@@ -94,7 +94,7 @@ Bild och miljö 74
 Engelska och Franska/Tyska 76
 Engelska 77
 Höra — Tala 78
-
+
 
 ***** PAGE 1 *****
 
@@ -220,7 +220,7 @@ TIMPLANER 153
 FÖRESKRIFTER FÖR TIMPLANER 157
 
 SAKREGISTER 163
-
+
 
 ***** PAGE 2 *****
 
@@ -262,7 +262,7 @@ samhet (fria aktiviteter).
 Lagbestämmelser kompletteras av förordningar, som regeringen
 
  
-
+
 
 ***** PAGE 3 *****
 
@@ -319,7 +319,7 @@ förnyade versioner av kommentarerna. Olika målkonflikter belyses.
 Redovisningen av forskning, försöksverksamhet, erfarenheter
 från skolans dagliga arbete och av aktuella problem kan bilda ut-
 gångspunkt för diskussion och beslut om olika arbetssätt, stoffurval
-
+
 
 ***** PAGE 4 *****
 
@@ -366,16 +366,38 @@ nationella minoriteter, bl a invandrarfrågor
 
 För verksamheten inom specialskolan och sameundervisningen ut-
 ger skolöverstyrelsen (SÖ) kompletterande anvisningar.
-
+
 
 ***** PAGE 5 *****
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 Mål och riktlinjer
-
+
+Rn SS a — Oo oo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 
 ***** PAGE 6 *****
 
-
+
 
 ***** PAGE 7 *****
 
@@ -408,7 +430,7 @@ till ansvar, till goda arbets- och fritidsvanor och till ett demokratiskt
 handlingssätt. Kunskaper, färdigheter, normer och värderingar
 skall genom skolans försorg inte endast föras vidare från en genera-
 tion till nästa utan även aktivt bearbetas och vidareutvecklas.
-
+
 
 ***** PAGE 8 *****
 
@@ -470,7 +492,7 @@ nebär ett träget arbete som syftar till ett bestämt mål. En undervis-
 ning i grundskolan, som mekaniskt leder barnen genom stoff och
 problem utan att de lär sig att behärska grundläggande begrepp och
 förstå övergripande sammanhang, kan ha negativa följder för deras
-
+
 
 ***** PAGE 9 *****
 
@@ -526,7 +548,7 @@ grepp, tänka och tillägna sig kunskaper liksom tilliten och den inre
 tryggheten hos ett barn är i hög grad beroende av barnets förmåga
 att använda de olika medlen för att kommunicera med andra. De
 grundläggande färdigheterna har avgörande betydelse för övriga
-
+
 
 ***** PAGE 10 *****
 
@@ -584,7 +606,7 @@ Skolan skall fostra. Det innebär att skolan aktivt och medvetet skall
 påverka och stimulera barn och ungdomar att vilja omfatta vår de-
 mokratis grundläggande värderingar och låta dessa komma till ut-
 tryck i praktisk, vardaglig handling.
-
+
 
 ***** PAGE 11 *****
 
@@ -642,7 +664,7 @@ politiska beslut som har tillkommit i demokratisk ordning. Dessa
 beslut kommer till uttryck i lagar och föreskrifter. Eleverna måste
 liksom de vuxna efterleva dessa regler. Samtidigt som skolan håller
 fast vid detta skall den klargöra att man aldrig med hjälp av samhäl-
-
+
 
 ***** PAGE 12 *****
 
@@ -701,7 +723,7 @@ uppfattning, det kan gälla stilriktningar och smak. Skolan tar emot
 barn ur alla grupper och åsiktsläger i samhället. Alla föräldrar skall
 med samma förtroende kunna skicka sina barn till skolan, förvis-
 sade om att dessa inte blir påverkade från skolans sida till förmån
-
+
 
 ***** PAGE 13 *****
 
@@ -720,7 +742,7 @@ ta avstånd från allt som strider mot dessa. Skolan får alltså inte ställa
 sig neutral eller passiv i fråga om det demokratiska samhällets
 grundläggande värderingar. Skolan måste i stället medvetet verka
 för dessa värderingar och fostra eleverna till att respektera dem.
-
+
 
 ***** PAGE 14 *****
 
@@ -768,7 +790,7 @@ På mellanstadiet och högstadiet skall eleverna delta i fria aktivite-
 ter i den utsträckning som anges i föreskrifter för timplanerna, även
 om samlad skoldag inte har införts. Beslut om samlad skoldag med-
 för att kommunen därutöver skall svara för omsorg och aktiviteter
-
+
 
 ***** PAGE 15 *****
 
@@ -827,7 +849,7 @@ att utveckla ett naturligt och otvunget umgänge mellan elever och
 vuxna.
 
 Fria aktiviteter som en naturlig del av skolans verksamhet kan bli
-
+
 
 ***** PAGE 16 *****
 
@@ -882,7 +904,7 @@ förutsättningar och mognad. Elever och elevgrupper bör hjälpa till
 med dagliga göromål i skolan. De bör medverka i lokalvård, i bib-
 lioteks- och reproduktionsarbete och utföra enklare reparationer.
 De bör kunna svara för servering och dukning i samband med skol-
-
+
 
 ***** PAGE 17 *****
 
@@ -940,7 +962,7 @@ ningar. För att möjliggöra elevdeltagande i ännu större omfattning
 än de fria aktiviteterna medger får rektor befria elever från lektioner
 under sammanlagt 20 undervisningstimmar per år för att de skall
 kunna delta i musikverksamhet.
-
+
 
 ***** PAGE 18 *****
 
@@ -1000,7 +1022,7 @@ frånvaro i mer betydande grad följs upp.
 Om skolan skall kunna bidra till varje elevs positiva utveckling
 
  
-
+
 
 ***** PAGE 19 *****
 
@@ -1057,7 +1079,7 @@ sitt arbete, om hobbies och föreningar, underlätta studiebesök, ställa
 sig till förfogande för intervjuer eller organisera grupper under fria
 aktiviteter. De kan aktivt stödja lärarnas och elevernas arbete på att
 förbättra skolans miljö.
-
+
 
 ***** PAGE 20 *****
 
@@ -1116,7 +1138,7 @@ skapande som är ett led i personlighetsutvecklingen. De konstnär-
 liga uttrycksmedlen, i form av t ex teater och bild, utgör viktiga me-
 del för att göra stoffet levande i olika ämnen och för att redovisa ar-
 betsresultat och uttrycka opinioner. Temastudier underlättar verk-
-
+
 
 ***** PAGE 21 *****
 
@@ -1173,7 +1195,7 @@ ser.
 Under tiden i grundskolan skall eleverna genom skolans försorg
 få en praktisk arbetslivsorientering. Till den skall anslås upp till tio
 veckor. Den omfattningen kan emellertid inte uppnås omedelbart i
-
+
 
 ***** PAGE 22 *****
 
@@ -1229,7 +1251,7 @@ om deras förläggning inom stadier och årskurser. Besluten skall för-
 beredas i det lokala planeringsrådet (SSA-rådet).
 
 Genom arbetslivsorienteringen skall elever under högstadietiden
-
+
 
 ***** PAGE 23 *****
 
@@ -1241,7 +1263,7 @@ Innehåll och samverkan 29
 genom minst veckolånga perioder skaffa sig erfarenheter från var
 och en av följande tre arbetslivssektorer:
 
-OO Teknik och tillverkning
+0 Teknik och tillverkning
 OQO Handel, kommunikation, service, jord- och skogsbruk
 0 Kontor och förvaltning, vård och undervisning
 
@@ -1283,8 +1305,8 @@ medel — studiebesök, lärobok, tidningar, experiment — komma in.
 Vid den konkreta planeringen i skolan skall man utgå från den
 tid som står till förfogande. Har man kommit överens om att en del
 av tiden i ett ämne skall anslås till temaarbeten, måste stoffmängden
-i övrigt anpassas därefter. Tillräcklig tid måste avsättas för praktisk
-
+i Övrigt anpassas därefter. Tillräcklig tid måste avsättas för praktisk
+
 
 ***** PAGE 24 *****
 
@@ -1340,7 +1362,7 @@ gälla stoff utan intresse för eleverna. Uttrycksförmåga är be-
 roende av vetande. Eleverna lär sig använda ord samtidigt som
 de lär sig begrepp och ställer frågor. Språket utformas i ett sam-
 spel med andra människor. Barns arbete med bilder, med littera-
-
+
 
 ***** PAGE 25 *****
 
@@ -1396,7 +1418,7 @@ medel skall vara skrivna på ett medryckande och livfullt sätt och sti-
 mulera till kritisk debatt. Ett annat krav, som alltid är aktuellt i
 forskning, undervisning och nyhetsförmedling, är att stoffet skall
 vara väsentligt och relevant.
-
+
 
 ***** PAGE 26 *****
 
@@ -1452,7 +1474,7 @@ besvara dem genom att inta en värderande ståndpunkt.
 
 Den som skall ta ställning till värderingsfrågor behöver goda
 kunskaper. Genom tillämpningsövningar bör skolan hjälpa ele-
-
+
 
 ***** PAGE 27 *****
 
@@ -1510,7 +1532,7 @@ liksom att skolan stimulerar eleverna att utveckla olika intressen.
 Den enskilda skolan och arbetet i den enskilda klassen måste därför
 så långt möjligt kunna anpassas efter de intressen som eleverna har
 eller som lärarna förmår ge dem. Det är därför från denna synpunkt
-
+
 
 ***** PAGE 28 *****
 
@@ -1573,7 +1595,7 @@ tor eller skolstyrelse.
 
 I Med stadieveckotimme menas summan av de veckotimmar som kan förekomma
 i ett stadiums tre årskurser.
-
+
 
 ***** PAGE 29 *****
 
@@ -1630,7 +1652,7 @@ Det tematiska arbetet kan vara gemensamt för flera årskurser, för
 en arbetsenhet, för en klass eller bestå av olika studier utförda av
 skilda elevgrupper. Antalet samtidigt studerade teman i en arbetsen-
 het eller klass blir beroende av hur många skilda arbeten som ett ar-
-
+
 
 ***** PAGE 30 *****
 
@@ -1688,7 +1710,7 @@ delse, när eleven tar ställning till studieväg eller arbete.
 
 Skolan skall verka för jämställdhet mellan kvinnor och män.
 Skolledningen har ett speciellt ansvar för att material om könsrolls-
-
+
 
 ***** PAGE 31 *****
 
@@ -1744,7 +1766,7 @@ tisk arbetslivsorientering skall eleverna under skolåren få en alltmer
 omfattande insikt i studie- och yrkesliv. Samtalen kan på detta sätt
 bidra till att den enskilde eleven efterfrågar utbildning och upplever
 den som väsentlig.
-
+
 
 ***** PAGE 32 *****
 
@@ -1804,7 +1826,7 @@ orienteringen.
 Skolläkare, skolsköterska, skolkurator och skolpsykolog har sär-
 skild kännedom om elevens förutsättningar och behov. Syofunktio-
 närens insatser är betydelsefulla för enskilda samtal, allmän infor-
-
+
 
 ***** PAGE 33 *****
 
@@ -1861,7 +1883,7 @@ elev och föräldrar, redogör för hur de bedömer elevens utveckling.
 Elevens prestationer jämförs då med vad han eller hon tidigare gjort
 och med hans eller hennes egna förutsättningar. Eleven jämförs
 alltså inte med andra elever.
-
+
 
 ***** PAGE 34 *****
 
@@ -1906,7 +1928,7 @@ ringsråden skall bl a planera och följa den uppsökande studie- och
 yrkesorienteringen.
 
  
-
+
 
 ***** PAGE 35 *****
 
@@ -1946,7 +1968,7 @@ all synnerhet barn — upplever inte verkligheten systematiserad
 inom olika traditionella ämnesgränser. De frågor vi ställer inför
 verkligheten, om t ex vår bostad, vår miljö, vår skola, vårt samliv
 med andra, berör flera traditionella ämnen. Situationen i aktuella
-
+
 
 ***** PAGE 36 *****
 
@@ -2006,7 +2028,7 @@ skolans ram. De skall främja ett intimt samarbete mellan personal
 och elever.
 
 "Väsentliga mål i skolans arbete uppnås lättare om inom rektors-
-
+
 
 ***** PAGE 37 *****
 
@@ -2065,7 +2087,7 @@ framgångsrikt arbete. Framför allt kommer samverkan till uttryck
 genom att man i det dagliga arbetet gemensamt planerar kurserna
 
  
-
+
 
 ***** PAGE 38 *****
 
@@ -2125,7 +2147,7 @@ ning genom att själva praktisera den.
 Eleverna skall aktivt medverka i att utforma skolans arbetsmiljö.
 
  
-
+
 
 ***** PAGE 39 *****
 
@@ -2181,7 +2203,7 @@ viss kamratkrets eller är resultatet av arbetsuppgifter inom något
 ämne. I andra fall rör det sig om tidningar som redigeras av en klass
 eller en elevförening. Ibland utgör tidningen ett för skolan som hel-
 het representativt organ.
-
+
 
 ***** PAGE 40 *****
 
@@ -2239,7 +2261,7 @@ stöd under så lång tid, fortfarande ha avsevärda studiesvårigheter
 måste skolan samråda med elev och föräldrar om grupperingen.
 Elevvårdskonferensen beslutar i sådana fall om eleven skall få ar-
 beta längre tid i särskild undervisningsgrupp i ett eller flera ämnen.
-
+
 
 ***** PAGE 41 *****
 
@@ -2296,7 +2318,7 @@ plats än i skolan. Verksamheten utgör sålunda en del av den regul-
 jära undervisningen och innebär ett värdefullt komplement till det
 vanliga skolarbetet. Den ger i början av ett nytt stadium lärare och
 elever en god möjlighet att lära känna varandra.
-
+
 
 ***** PAGE 42 *****
 
@@ -2356,7 +2378,7 @@ ställa frågor, lära sig sovra, disponera och presentera ett stoff. Lära-
 ren måste också spela en aktiv roll för att leda elevernas undersök-
 ningar in mot väsentliga områden och förhindra att man fastnar i
 oväsentliga frågor.
-
+
 
 ***** PAGE 43 *****
 
@@ -2415,7 +2437,7 @@ ligheter för lärare och elever att tillsammans pröva olika arbetssätt.
 Här måste skolan respektera olika elev- och lärarindividualiteter.
 
 Individualisering måste så långt det är praktiskt möjligt få prägla
-
+
 
 ***** PAGE 44 *****
 
@@ -2474,7 +2496,7 @@ romedel. Vissa sådana läromedel, eller väsentliga hjälpmedel som
 lexikon och kartböcker, skall eleverna få som gåva.
 
 Om inköp av de läromedel som täcker hela ämnen eller grupper
-
+
 
 ***** PAGE 45 *****
 
@@ -2495,7 +2517,7 @@ till lärares och elevers val av delmål och metod, kan läromedlen bli
 avpassade till de skilda förhållanden som gäller i olika skolor. Valet
 mellan att besöka en arbetsplats eller läsa om den i en bok är ett så-
 dant pedagogiskt val, som måste träffas i skolan.
-
+
 
 ***** PAGE 46 *****
 
@@ -2538,7 +2560,7 @@ mande utbildning. En total anpassning till elevernas spontana in-
 tressen kan leda till att de får stora svårigheter, när de skall gå ut i
 arbetslivet eller fortsätta med studier. Då förvandlas deras skolsvå-
 righeter till hinder senare i livet.
-
+
 
 ***** PAGE 47 *****
 
@@ -2592,7 +2614,7 @@ från språkliga minoriteter är det inte minst viktigt att det finns läro-
 medel och litteratur också på elevernas hemspråk.
 
 Skoldagens utbyggnad och utformning måste ägnas särskild upp-
-
+
 
 ***** PAGE 48 *****
 
@@ -2654,7 +2676,7 @@ att uppsöka föräldrar, som inte kommer till skolans samman-
 komster.
 
  
-
+
 
 ***** PAGE 49 *****
 
@@ -2664,7 +2686,7 @@ Elever med särskilda behov SS
 
  
 
-0 Man kan anslå tid till hjälp med hemuppgifter åt elever, som inte
+O Man kan anslå tid till hjälp med hemuppgifter åt elever, som inte
 har möjlighet att fullgöra sin uppgift hemma.
 
 Skulle dessa möjligheter till ett mångsidigt arbete, vad gäller meto-
@@ -2711,7 +2733,7 @@ gång och inte enbart vara en placering på någon arbetsplats. Anpas-
 sad studiegång skall därför vara väl planerad. Eleven måste få om-
 fattande hjälp av handledare och lärare. Om på högstadiet en del av
 utbildningen försiggår på en arbetsplats utanför skolan, skall eleven
-
+
 
 ***** PAGE 50 *****
 
@@ -2770,7 +2792,7 @@ tetsspråk som hemspråk, dvs såväl invandrarelever som elever till-
 hörande andra minoriteter i Sverige.
 
 Syftet med hemspråksundervisningen skall vara att vidmakthålla
-
+
 
 ***** PAGE 51 *****
 
@@ -2820,7 +2842,7 @@ För elever, som har svenska som främmande språk, skall skolan
 organisera undervisning i svenska som främmande språk. I sådan
 undervisning är deltagandet obligatoriskt. Även här skall skolan
 själv välja organisationsform.
-
+
 
 ***** PAGE 52 *****
 
@@ -2864,7 +2886,7 @@ En planeringsuppgift för skolstyrelsen är därför att skapa förut-
 sättning för en lokal utveckling, exempelvis genom samråd och per-
 sonalutvecklande insatser. En annan viktig uppgift är att fördela
 förstärkningsresursens medel behovsinriktat. Detta förutsätter en
-
+
 
 ***** PAGE 53 *****
 
@@ -2922,7 +2944,7 @@ att kunna organisera och genomföra ett studiebesök
 är gemensamma för flera ämnen, exempelvis:
 studie- och yrkesorientering
 hushållning med resurser
-
+
 
 ***** PAGE 54 *****
 
@@ -2950,13 +2972,13 @@ att motverka könsbundna val samt givetvis först och främst att
 eleverna upplever kurser och aktiviteter engagerande och läro-
 rika
 
-0 I arbetsplanen bör ingå program för temastudier, för elevernas
+O I arbetsplanen bör ingå program för temastudier, för elevernas
 egen aktiva medverkan i olika arbetsuppgifter, för formerna och
 omfattningen av hem- och skolakontakter, för konferensverk-
 samheten m m.
 
 Arbetsplanen skall således inte enbart vara beskrivande. Den skall
-dessutom så långt möjligt uttrycka en ambitionsnivå, som man 1o-
+dessutom så långt möjligt uttrycka en ambitionsnivå, som man l1o-
 kalt kommit överens om att söka uppnå.
 
 Planeringsuppgifter är en del av arbetsskyldigheten för lärare och
@@ -2984,7 +3006,7 @@ ringen på skolan. Det är verksamheten — sådan den beskrivs i pla-
 nen — som skall utvärderas, inte den enskilde eleven eller läraren.
 Generella resultat kan vara betydelsefulla, t ex att ett större antal för-
 äldrar kommer på klassmöten och att alla elever nått en viss läsfär-
-
+
 
 ***** PAGE 55 *****
 
@@ -3031,20 +3053,40 @@ också att successivt ställa till skolornas förfogande beskrivningar av
 alternativa sätt att arbeta och erfarenheter från försöksverksamhet
 och forskning. Såväl skolstyrelsen som länsskolnämnden bör spela
 en betydelsefull roll genom att förmedla olika uppslag till skolorna.
-
+
 
 ***** PAGE 56 *****
 
-
+
 
 ***** PAGE 57 *****
 
-Kursplaner
-
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STTEJOETA:
+
+ 
+
+ 
+
+ 
+
 
 ***** PAGE 58 *****
 
-
+
 
 ***** PAGE 59 *****
 
@@ -3097,7 +3139,7 @@ rare och elever måste dock ur huvudmomentens rikhaltiga stoff ta
 fram den kärna av kunskaper som är nödvändig för alla och som
 alla elever om möjligt skall lära sig. De grundläggande färdighe-
 terna tala, läsa, skriva och räkna skall särskilt uppmärksammas.
-
+
 
 ***** PAGE 60 *****
 
@@ -3134,7 +3176,7 @@ verksamhet också av praktisk arbetslivsorientering och fria aktivite-
 ter. På högstadiet förekommer utöver tyska, franska och hemspråk
 ett fritt tillval efter lokalt utformade kursplaner. Mål och riktlinjer
 för denna verksamhet finns på s. 34.
-
+
 
 ***** PAGE 61 *****
 
@@ -3183,7 +3225,7 @@ yrkesgrupper som arbetar med barn.
 
 Hur vår tids arbetsmarknad påverkar barnens uppväxtvillkor och
 behov av service. Samhällets hjälpåtgärder för föräldrar och barn.
-
+
 
 ***** PAGE 62 *****
 
@@ -3200,7 +3242,7 @@ Könsrollstänkandet och barnen. Jämställdhetsfostran.
 
 Invandrarfamiljernas situation. Svårigheter för barn att leva i olika
 språkliga och kulturella miljöer.
-
+
 
 ***** PAGE 63 *****
 
@@ -3245,7 +3287,7 @@ Undervisningen skall stärka elevernas lust att arbeta med bilder,
 möta deras behov att bearbeta och gestalta iakttagelser och uttrycka
 sina åsikter, känslor och erfarenheter och utveckla deras form- och
 färgsinne.
-
+
 
 ***** PAGE 64 *****
 
@@ -3286,7 +3328,7 @@ meddela sig med andra.
 Lågstadiet
 Eleverna skall
 
-O bearbeta och ge form åt iakttagelser, känlsor och åsikter i mate-
+0 bearbeta och ge form åt iakttagelser, känlsor och åsikter i mate-
 rial och bildtekniker som teckning, målning, collage, skulptur,
 tryck, foto och film eller video,
 
@@ -3303,7 +3345,7 @@ Mellanstadiet
 Hänsyn måste tas till att barn i den här åldern tittar mycket på TV.
 Bildframställningen måste därför i större utsträckning än tidigare
 omfatta arbete med foto och film och video.
-
+
 
 ***** PAGE 65 *****
 
@@ -3337,13 +3379,13 @@ O undersöka förhållandet mellan bildens yta och rum och använda
 form, ljus och skugga, perspektiviska förkortningar etc för att ge
 föreställning om och skapa djup och volym,
 
-Od studera hur människor och djur rör sig och lära sig använda
+O studera hur människor och djur rör sig och lära sig använda
 olika sätt att uttrycka rörelse i bild,
 
 0 arbeta med färg och bli medvetna om färgers symboliska funk-
 tioner och stämningsskapande egenskaper,
 
-OO fördjupa sina kunskaper om kameran, om den fotografiska bil-
+Oo fördjupa sina kunskaper om kameran, om den fotografiska bil-
 dens, filmens och videons uttrycksmöjligheter samt om fram-
 kallning, kopiering och redigering.
 
@@ -3359,7 +3401,7 @@ likgiltiga eller undermåliga. Det är bilder som rör sig inom ett gans-
 ka snävt intressefält och som i stor utsträckning utnyttjar en begrän-
 sad uppsättning av bildmässiga och innehållsmässiga schabloner.
 Den ökade användningen av bild som kommunikationsmedel
-
+
 
 ***** PAGE 66 *****
 
@@ -3415,7 +3457,7 @@ upplevelsen av form och innehåll,
 
 OO upptäcka hur värderingar i fråga om t ex nationaliteter, social-
 grupper, könsroller, yrkesroller och miljöer styr bildupplevelser.
-
+
 
 ***** PAGE 67 *****
 
@@ -3437,7 +3479,7 @@ Eleverna skall i ämnet och i samband med undervisningen i andra
 0 ge kunskaper och anvisningar,
 
 O informera och förmedla nyheter,
-0 propagera och göra reklam,
+CZ propagera och göra reklam,
 
 0 underhålla och roa.
 
@@ -3467,9 +3509,9 @@ Eleverna skall
 svenska och utländska bilderböcker, bokillustrationer, affischer,
 filmer, TV-program etc,
 
-O lära sig att uppleva konstbilder och ta emot den kunskap och de
+0 lära sig att uppleva konstbilder och ta emot den kunskap och de
 möjligheter till associationer som finns koncentrerade i dem,
-
+
 
 ***** PAGE 68 *****
 
@@ -3482,7 +3524,7 @@ Högstadiet
 Arbetet på högstadiet skall ha samma inriktning som på lågstadiet
 och mellanstadiet och ge eleverna ytterligare möjligheter att
 
-0 studera olika konstarter och olika idéer om bildkonstnärers roll i
+OQO studera olika konstarter och olika idéer om bildkonstnärers roll i
 samhället,
 
 0 bli medvetna om samhällets kulturpolitik på bildens område och
@@ -3514,11 +3556,11 @@ disar”, och olika medier för att sprida sina budskap,
 dem själva och kamraterna och ta reda på vem som säljer pro-
 dukterna,
 
-AO i ord och bild beskriva för varandra hur de använder mass-
+OQO i ord och bild beskriva för varandra hur de använder mass-
 medieprodukterna och vad de ensamma eller tillsammans med
 andra barn samt vuxna får ut och lär sig av att sysselsätta sig
 med produkterna.
-
+
 
 ***** PAGE 69 *****
 
@@ -3536,7 +3578,7 @@ kar den egna upplevelsen av trygghet, rädsla, avspändhet och
 hot och därvid diskutera hur man kan motverka vandalisering i
 samhälle och skola,
 
-OO undersöka skolans miljö. Därvid skall skolans yttre och inre
+O undersöka skolans miljö. Därvid skall skolans yttre och inre
 rumsbildning, formgivning och sätt att inreda och möblera stu-
 deras,
 
@@ -3555,7 +3597,7 @@ och annat bildspråk och hur de inverkar på den enskildes möj-
 ligheter att bygga upp sin egen identitet. Utifrån egna erfarenhe-
 ter samt studier av bilder skall de lära sig genomskåda fördomar
 och motsägelsefulla budskap.
-
+
 
 ***** PAGE 70 *****
 
@@ -3596,7 +3638,7 @@ länder,
 O färdighet i franska/tyska är värdefull för elever-
 nas fortsatta studier och framtida yrkesverksam-
 het.
-
+
 
 ***** PAGE 71 *****
 
@@ -3652,7 +3694,7 @@ För att kunna förstå och göra sig förstådd på engelska måste man
 förfoga över ett inte alltför begränsat ordförråd. I första hand bör
 eleverna lära sig sådana ord som de behöver för att kunna uttrycka
 sig begripligt i olika talsituationer.
-
+
 
 ***** PAGE 72 *****
 
@@ -3714,7 +3756,7 @@ deras språkfärdighet.
 
 Avlyssning av inspelat material, såväl tillrättalagt som autentiskt,
 för information, upplevelse och diskussion.
-
+
 
 ***** PAGE 73 *****
 
@@ -3767,7 +3809,7 @@ med ökad inriktning mot extensiv läsning. Det informativa stoffet
 anknyts där så är lämpligt, till elevernas studier i andra ämnen.
 Övning i att vid läsning skilja mellan väsentligt och oväsentligt samt
 ta ställning till de åsikter och värderingar som framförs.
-
+
 
 ***** PAGE 74 *****
 
@@ -3823,7 +3865,7 @@ Fortsatt övning i att tolka fonetisk skrift.
 
 Övning i att använda lexikon.
 Övning i att använda grammatiken som uppslagsbok.
-
+
 
 ***** PAGE 75 *****
 
@@ -3855,7 +3897,7 @@ Eleverna bör även ges tillfälle att diskutera problem som rör männi-
 skors livsvillkor och samlevnad.
 
 Betydelsen av språkkunskaper i olika yrken.
-
+
 
 ***** PAGE 76 *****
 
@@ -3909,7 +3951,7 @@ intonation. För att eleverna skall förvärva ett så gott uttal som möj-
 ligt bör de regelbundet lyssna till och säga efter intalningar av in-
 födda fransk/tysktalande. Normgivande för uttalet bör vara vårdat
 talspråk utan stora dialektala avvikelser.
-
+
 
 ***** PAGE 77 *****
 
@@ -3965,7 +4007,7 @@ t ex korta uppsatser, bör vara regelbundna inslag i undervisningen.
 I undervisningen skall ingå
 OQO övningar för att befästa ord, fraser och grammatik,
 OQO fri skrivning.
-
+
 
 ***** PAGE 78 *****
 
@@ -3981,14 +4023,14 @@ tur samt aktuella problem i de fransk/tysktalande länderna på
 olika sätt tas upp till behandling och jämföras med motsvarande
 förhållanden i Sverige,
 
-0 viktiga aktuella händelser i de fransk/tysktalande länderna be-
+O viktiga aktuella händelser i de fransk/tysktalande länderna be-
 handlas och diskuteras,
 
 0 eleverna få tillfälle att öva sig att på franska/tyska ge upplys-
 ningar om svenska förhållanden,
 
 3 betydelsen av språkkunskaper i olika yrken diskuteras.
-
+
 
 ***** PAGE 79 *****
 
@@ -4041,7 +4083,7 @@ sina kunskaper i kost, hygien och miljö.
 HUVUDMOMENT Det praktiska arbetet och träningen av vardagsfärdigheter skall vara
 
 utgångspunkt för undervisningen.
-
+
 
 ***** PAGE 80 *****
 
@@ -4105,7 +4147,7 @@ påverkar konsumentens behov och beteende.
 
 Matvanor, måltidsvanor och fördelning av måltidssysslor i olika
 kulturer. Tillagning av mat från olika kulturkretsar.
-
+
 
 ***** PAGE 81 *****
 
@@ -4162,7 +4204,7 @@ lar av världen påverkar arbetsmetoder, hygien, hälsa och välbefin-
 nande.
 
 Samarbete och ansvarstagande vid disk, tvätt och städning.
-
+
 
 ***** PAGE 82 *****
 
@@ -4217,7 +4259,7 @@ Marknadsföringsmetoder och hur de påverkar konsumentens be-
 hov och beteende.
 
 Hushållens ansvar för miljön.
-
+
 
 ***** PAGE 83 *****
 
@@ -4268,7 +4310,7 @@ vet och på fritiden. Att planera hemarbetet, fördela uppgifter, sam-
 arbeta och ta ansvar.
 
 Familjen i olika kulturer. Samlevnadsformer och traditioner.
-
+
 
 ***** PAGE 84 *****
 
@@ -4316,7 +4358,7 @@ Under vistelse i naturen skall eleverna skaffa sig kunskaper om fri-
 luftsliv, få förståelse för den ekologiska balansen samt lära sig att ta
 ansvar för naturen och utnyttja den rätt för rekreation och frilufts-
 liv.
-
+
 
 ***** PAGE 85 *****
 
@@ -4374,7 +4416,7 @@ Lågstadiet
 Riktiga sittställningar.
 Sambandet fysisk aktivitet — cirkulation och muskelfunktion.
 Klädsel och duschning i samband med fysisk aktivitet.
-
+
 
 ***** PAGE 86 *****
 
@@ -4434,7 +4476,7 @@ Mellanstadiet
 
 Bollekar som utvecklar förståelse för regler och förbereder de olika
 bollspelen.
-
+
 
 ***** PAGE 87 *****
 
@@ -4487,7 +4529,7 @@ Löpning, hopp och kast med teknikskolning eller som fri träning.
 
 Stafetter i olika former.
 Regler, funktionärskap, ledaruppgifter.
-
+
 
 ***** PAGE 88 *****
 
@@ -4537,7 +4579,7 @@ Träning i att leda orienteringsövningar. Funktionärsuppgifter.
 Efter lokala förhållanden får eleverna välja aktiviteter, såsom vand-
 ringar, cykelturer, kanotfärder och lägerliv. Frågor som behandlats
 på föregående stadier aktualiseras i samband med aktiviteterna.
-
+
 
 ***** PAGE 89 *****
 
@@ -4587,7 +4629,7 @@ i samband med vattensport.
 Livräddningsövningar, dykövningar, klädsim, ilandföring samt an-
 vändning av livräddningsmaterial.
 Simkunnighets- och livräddningsprov.
-
+
 
 ***** PAGE 90 *****
 
@@ -4639,7 +4681,7 @@ Hur man räddar sig själv och andra ur en isvak.
 
 Mellanstadiet
 Åkteknik, lekar på is, isspel.
-
+
 
 ***** PAGE 91 *****
 
@@ -4667,7 +4709,7 @@ OO individuellt upplagt träningsprogram i hastighetsåkning
 
 Om förhållandena medger kan långfärdsåkning på sjöis arrangeras i
 små grupper med ledare.
-
+
 
 ***** PAGE 92 *****
 
@@ -4693,7 +4735,7 @@ sådana matematiska problem som vanligen förekommer i vardagsli-
 vet. Detta innebär att eleverna genom undervisningen skall för-
 värva
 
-O säkerhet i numerisk räkning med och utan hjälpmedel,
+0 säkerhet i numerisk räkning med och utan hjälpmedel,
 
 O färdigheter i huvudräkning och överslagsräkning,
 
@@ -4714,7 +4756,7 @@ OO algebra och grundläggande funktionslära,
 O statistik och sannolikhetslära,
 
 0 datoranvändning och datalära.
-
+
 
 ***** PAGE 93 *****
 
@@ -4767,7 +4809,7 @@ PROBLEMLÖSNING
 Det grundläggande målet för ämnet matematik är att alla elever
 skall förvärva god förmåga att lösa sådana problem av matematisk
 natur som man möter i hem och samhälle. För att kunna lösa så-
-
+
 
 ***** PAGE 94 *****
 
@@ -4821,7 +4863,7 @@ Undervisningen i aritmetik skall utgå från och förankras i vardags-
 nära problem och för eleverna konkreta situationer. För att kunna
 lösa vardagliga matematiska problem måste eleverna bl a ha väl in-
 övade färdigheter i olika räknesätt. Repetitioner och individuella
-
+
 
 ***** PAGE 95 *****
 
@@ -4876,7 +4918,7 @@ REELLA TAL
 
 De flesta människor har främst användning för naturliga tal och tal
 i decimalform. Negativa tal förekommer i begränsad omfattning i
-
+
 
 ***** PAGE 96 *****
 
@@ -4885,7 +4927,7 @@ i decimalform. Negativa tal förekommer i begränsad omfattning i
 det praktiska livet och behandlas i lägre årskurser bara i anslutning
 till elevernas frågor och andra skolämnen. Det gäller också begrep-
 pen kvadrat, kvadratrot och tiopotens något högre upp i årskur-
-serna. Tal som 2 och 3/7 kan t ex med hjälp av miniräknare av-
+serna. Tal som Vv2 och 3/7 kan t ex med hjälp av miniräknare av-
 rundas till tal i decimalform. Man bör också uppmärksamma att
 subtraktioner av negativa tal liksom multiplikationer av två nega-
 tiva tal knappast förekommer i praktiska situationer.
@@ -4929,7 +4971,7 @@ dessa och liknande situationer. De bör därvid tillägna sig goda fär-
 digheter i att göra beräkningar utgående från procentbegreppet och
 lära sig att utgå från dessa, då de tar ställning i vardagliga valsitua-
 tioner.
-
+
 
 ***** PAGE 97 *****
 
@@ -4981,7 +5023,7 @@ Tidsenheterna utökas från sekunder till år. Även datumangivelser
 tas upp. Enkla enhetsbyten och huvudräkning övas i samband med
 problemlösning som gäller matlagning, beräkning av restider, priser
 etc.
-
+
 
 ***** PAGE 98 *****
 
@@ -5036,7 +5078,7 @@ av ritningar och kartor och föremål som tillverkas i slöjden.
 Mellanstadiet och högstadiet
 Begreppet area tas upp i laborativa situationer och med utgångs-
 punkt i exempel från närmiljön, såsom golv, mattor, väggar, gräs-
-
+
 
 ***** PAGE 99 *****
 
@@ -5062,7 +5104,7 @@ Högstadiet
 
 Tillämpningar och praktisk användning av geometri i vardagliga si-
 tuationer vidareutvecklas. Stoffet väljs från omgivningen och från
-vardagliga sysselsättningar, tex att sy, sticka, måla och snickra.
+vardagliga sysselsättningar, t ex att sy, sticka, måla och snickra.
 Skalbegreppet används främst i praktiska sammanhang.
 
 Vidare bör en grund läggas för en mera formaliserad geometri.
@@ -5090,7 +5132,7 @@ Enkla likheter löses genom prövning.
 
 Mellanstadiet och högstadiet
 Lösning av enkla ekvationer främst genom att pröva och utgå från
-
+
 
 ***** PAGE 100 *****
 
@@ -5143,7 +5185,7 @@ keldiagram och stolpdiagram. Frekvens och frekvenstabeller i sam-
 band med egna undersökningar. Kritisk granskning av olika sätt att
 presentera statistiskt material, t ex i reklam. Undersökning av san-
 nolikhet för händelser.
-
+
 
 ***** PAGE 101 *****
 
@@ -5173,7 +5215,7 @@ råden, där betydelsen av den snabba tekniska utvecklingen särskilt
 uppmärksammas.
 
 Exempel på olika yrken där kunskap om datorer är betydelsefull.
-
+
 
 ***** PAGE 102 *****
 
@@ -5217,7 +5259,7 @@ samarbete över årskurs-, stadie- och ämnesgränser samt främja
 kontakten med det övriga musiklivet i samhället. Eleverna skall
 härigenom stimuleras till kontakt med musik även efter avslutad
 skolgång.
-
+
 
 ***** PAGE 103 *****
 
@@ -5231,6 +5273,8 @@ ATT MUSICERA TILLSAMMANS
 
 Lågstadiet
 Eleverna skall
+
+OO
 
 OO
 
@@ -5288,7 +5332,7 @@ enklare noter,
 
 läsa ramsor och ordlekar, traditionella och moderna i bearbetad
 form eller improviserat för att uppleva textrytm, ordvalör m m.
-
+
 
 ***** PAGE 104 *****
 
@@ -5306,7 +5350,7 @@ dikt, dans eller rörelse, inlärt på gehör eller efter noter,
 O sjunga sånger från skilda tider och genrer med skiftande innehåll
 och karaktär, även dagsaktuella sånger,
 
-0 utföra ljudkompositioner med instrument, röster och andra ljud-
+O utföra ljudkompositioner med instrument, röster och andra ljud-
 källor.
 
 ATT SKAPA MUSIK
@@ -5348,7 +5392,7 @@ liga idéer och uttrycka känslor och åsikter,
 0 experimentera med olika ljudkällor och göra inspelningar av
 dessa, imitera vanliga ljud i samhälle och natur eller hitta på
 egna ljud, göra ljudberättelser eller fria ljudkompositioner,
-
+
 
 ***** PAGE 105 *****
 
@@ -5405,7 +5449,7 @@ Eleverna skall få möjlighet att
 
 O studera sångtexter med avseende på tids- och miljöskildringar,
 samhällsvärderingar, budskap m m, studera samband mellan
-
+
 
 ***** PAGE 106 *****
 
@@ -5442,7 +5486,7 @@ och ljudteknisk apparatur samt om konsumentfrågor i samband
 med inköp.
 
 Exempel på olika yrken där kännedom om musik är betydelsefull.
-
+
 
 ***** PAGE 107 *****
 
@@ -5488,7 +5532,7 @@ skap skall i samråd mellan hemmet och skolan överenskommas hur detta prak-
 tiskt skall ordnas. Med hänsyn till de speciella motiv som i varje enskilt fall före-
 ligger och undervisningens uppläggning i ifrågavarande klass får från fall till
 fall avgöras vilka lektioner och avsnitt som eleven skall vara befriad ifrån.
-
+
 
 ***** PAGE 108 *****
 
@@ -5508,11 +5552,11 @@ OD eleverna skall få kunskap om naturen och dess la-
 
 gar,
 
-OD eleverna skall få kunskap om mänsklig verksam-
+0 eleverna skall få kunskap om mänsklig verksam-
 
 het förr och nu,
 
-O eleverna skall få kunskap om medborgarnas rät-
+O eleverna skall få kunskap om medborgarnas räåt-
 tigheter och skyldigheter,
 
 O eleverna skall få kunskaper om och kontakt med
@@ -5540,7 +5584,7 @@ kotika och tobak, både när det gäller dem själva och andra.
 Eleverna skall lära känna vanliga växter och djur och få perspektiv
 på hur olika former av liv har utvecklats på jorden. Vidare skall ele-
 verna få kunskap om hur naturen fungerar, vanliga naturtypers
-
+
 
 ***** PAGE 109 *****
 
@@ -5598,7 +5642,7 @@ och redovisa iakttagelser och experiment både muntligt och skrift-
 ligt. De skall utveckla sin förmåga att upptäcka och identifiera pro-
 blem, ge förslag till tänkbara lösningar, pröva dessa och själva söka
 bedöma resultatet.
-
+
 
 ***** PAGE 110 *****
 
@@ -5662,7 +5706,7 @@ Läkemedel, lösningsmedel, alkohol, narkotika och tobak. Deras
 giftverkan och hur man kan undvika dessa gifter. Möjligheter att
 komma ur ett beroende. Olika orsaker till missbruk. Vuxnas och
 kamraters roll och ansvar som normbildare.
-
+
 
 ***** PAGE 111 *****
 
@@ -5723,7 +5767,7 @@ historiskt perspektiv. Möjligheter och begränsningar för liv på jor-
 den.
 
 Cellen och olika livsprocesser, t ex' fotosyntes.
-
+
 
 ***** PAGE 112 *****
 
@@ -5781,7 +5825,7 @@ Hur en vara utvecklas från idé till färdig produkt.
 Tolka, bearbeta och göra enklare ritningar, tabeller och diagram.
 
 Följa bruksanvisningar och förstå innehållsdeklarationer.
-
+
 
 ***** PAGE 113 *****
 
@@ -5834,7 +5878,7 @@ Genom undervisningen i de samhällsorienterande ämnena skall ele-
 verna vidga sina kunskaper om sig själva och andra, om männi-
 skors liv och verksamhet förr och nu samt om tillvaron och dess
 problem. De skall därigenom skaffa sig tilltro till sin förmåga att på-
-
+
 
 ***** PAGE 114 *****
 
@@ -5889,7 +5933,7 @@ historiskt perspektiv bör eleverna bli medvetna om att framtiden är
 beroende av handlingar och beslut i gårdagens och dagens sam-
 hälle. Studierna skall belysa både social, kulturell, rättslig, veten-
 skaplig, ekonomisk, teknisk och politisk utveckling.
-
+
 
 ***** PAGE 115 *****
 
@@ -5940,7 +5984,7 @@ torer av samhället och i skolarbetet ordna, bearbeta, tolka och kri-
 tiskt granska samhällsinformation som de får genom massmedier
 och på andra sätt. De skall beredas tillfällen att själva producera och
 förmedla kunskap.
-
+
 
 ***** PAGE 116 *****
 
@@ -5998,7 +6042,7 @@ andra länder. Särskild tyngdpunkt på barns situation. Eftersatta
 grupper och åtgärder mot diskriminering i alla dess former.
 
  
-
+
 
 ***** PAGE 117 *****
 
@@ -6060,7 +6104,7 @@ Människan och landskapet: Människan och landskapet förr, nu och
 i framtiden. Utvecklingen av bebyggelse, samhällenas utformning,
 näringslivet och handeln. Kommunikationer. Den politiska och tek-
 niska utvecklingens påverkan på i första hand utvecklingen av nä-
-
+
 
 ***** PAGE 118 *****
 
@@ -6117,7 +6161,7 @@ Jämförelser mellan människors levnadsöden, drömmar och ideal
 genom tiderna.
 
 Utvecklingen från 1700-talets mitt i Norden, i några ledande världs-
-
+
 
 ***** PAGE 119 *****
 
@@ -6177,7 +6221,7 @@ Arbetslivet i skolan och på orten: Enligt vad som anges för lågsta-
 diet. Jämställdhet mellan könen i arbetsliv och samhälle, skolans
 olika personalgrupper, deras uppgifter och situation. Arbetsmiljöer.
 Studie- och yrkesval.
-
+
 
 ***** PAGE 120 *****
 
@@ -6236,7 +6280,7 @@ Den yttre miljön: Enligt vad som anges för lågstadiet och mellan-
 stadiet. Trafikmiljö och trafiksäkerhet i samhället. Olika trafikalter-
 nativ. Samhällsplanering och miljöfrågor, bl a med hänsyn till ut-
 satta grupper.
-
+
 
 ***** PAGE 121 *****
 
@@ -6291,7 +6335,7 @@ personer i nutiden. I undervisningen ingår också studier av
 
 0 bibeln, t ex skapelseberättelserna, profeterna, Jesu möten med
 människor,
-
+
 
 ***** PAGE 122 *****
 
@@ -6331,7 +6375,7 @@ naturfolkens religioner. Musikens religiösa funktioner,
 
 0 andra livsåskådningar än de religiösa, t ex marxism och huma-
 nism.
-
+
 
 ***** PAGE 123 *****
 
@@ -6377,7 +6421,7 @@ trä- och metallslöjden skall de lära sig bearbeta, sammansätta,
 forma och ytbehandla trä, metall och kompletterande material.
 
 Eleverna skall få kännedom om kulturarvet inom slöjdens områ-
-
+
 
 ***** PAGE 124 *****
 
@@ -6437,7 +6481,7 @@ Lågstadiet
 
 Undersöka och pröva olika materials egenskaper och användnings-
 områden.
-
+
 
 ***** PAGE 125 *****
 
@@ -6497,7 +6541,7 @@ Skaffa sig kunskaper om vad bruks- och prydnadsföremål har för
 betydelse för människans olika livsvillkor och kulturer.
 
 Studera hantverkets utveckling och betydelse för människan.
-
+
 
 ***** PAGE 126 *****
 
@@ -6513,7 +6557,7 @@ Studera slöjdens kulturarv och hur detta kan inspirera till nytt ska-
 pande.
 
  
-
+
 
 ***** PAGE 127 *****
 
@@ -6558,7 +6602,7 @@ av både språk och personlighet. Därför är det ett viktigt mål för
 svenskundervisningen att stärka elevernas självkänsla, så att de vå-
 gar yttra sig och stå för sina åsikter. Arbetet bör därför utgå från det
 språk och de erfarenheter eleverna har.
-
+
 
 ***** PAGE 128 *****
 
@@ -6615,7 +6659,7 @@ böcker, författare och bibliotek och vänja sig vid att låna och läsa
 skönlitteratur.
 
  
-
+
 
 ***** PAGE 129 *****
 
@@ -6674,7 +6718,7 @@ bete,
 OQO undersöka ord och uttryck för att komma underfund med hur de
 svarar mot det som man kan iaktta. eller vill säga och därvid
 skaffa sig kunskaper om språk och språkbruk.
-
+
 
 ***** PAGE 130 *****
 
@@ -6726,7 +6770,7 @@ Lågstadiet
 I arbetet ingår att eleverna
 
 O lär sig läsa. (Se Läs- och skrivinlärning),
-
+
 
 ***** PAGE 131 *****
 
@@ -6788,7 +6832,7 @@ O i skolbiblioteket praktiskt lär sig biblioteks- och bokkunskap,
 
 liotekets service till elever och personal samt göra reportage, tid-
 ningar, diktsamlingar etc.
-
+
 
 ***** PAGE 132 *****
 
@@ -6845,7 +6889,7 @@ ler problem framställs i dessa.
 Inslag på danska eller norska skall förekomma i massmediestudi-
 erna för att eleverna skall få nordiska perspektiv på aktuella frågor
 och samtidigt vänja sig vid att läsa och lyssna till grannspråken.
-
+
 
 ***** PAGE 133 *****
 
@@ -6904,7 +6948,7 @@ särskilt uppmärksammas.
 Mellanstadiet
 På mellanstadiet bör arbetet inriktas på att eleverna stabiliserar och
 utvecklar sin förmåga att skriva. Detta innebär framför allt att de ut-
-
+
 
 ***** PAGE 134 *****
 
@@ -6968,7 +7012,7 @@ ler texter,
 
 O får jämföra talspråk och skriftspråk och olika sätt att tala och
 skriva,
-
+
 
 ***** PAGE 135 *****
 
@@ -7026,7 +7070,7 @@ Orientering om de övriga språken i de nordiska länderna.
 Några uttalsregler för finska och isländska, så att eleverna kan ut-
 tala namn på t ex personer och geografiska företeelser som de ofta
 möter direkt eller via massmedier.
-
+
 
 ***** PAGE 136 *****
 
@@ -7070,7 +7114,7 @@ i tal och skrift i olika sammanhang.
 
 Undervisningen skall ge eleverna sådana nödvändiga språkkunska-
 per, som elever med svenska som hemspråk fått före skolåldern och
-
+
 
 ***** PAGE 137 *****
 
@@ -7122,7 +7166,7 @@ Texterna bör behandla sådana företeelser i det svenska samhället
 som elever med annat hemspråk än svenska vanligen inte kommer i
 kontakt med och som därför inte naturligen ingår i deras ord- och
 begreppsförråd.
-
+
 
 ***** PAGE 138 *****
 
@@ -7176,7 +7220,7 @@ service, dvs bokutlåning, bokutställningar, rådgivning och kultur-
 program. Undervisningen i svenska som främmande språk bör
 medverka till att eleverna får kunskap om och förståelse för männi-
 skors olika livsvillkor och livsmönster.
-
+
 
 ***** PAGE 139 *****
 
@@ -7224,11 +7268,11 @@ vågar yttra sig och stå för sina åsikter.
 Alla elever som undervisas i hemspråk har inte samma tillgång till
 sitt språk eller sina föräldrars kultur. Det finns elever som riskerar
 att tappa kontakten med föräldrarna, eftersom de inte längre har ett
-
+
 
 ***** PAGE 140 *****
 
-146 = Kursplaner
+146 Kursplaner
 
 HUVUDMOMENT
 
@@ -7277,7 +7321,7 @@ inte talas ofta är det viktigt att eleverna får tillfälle till att lyssna på
 språket, t ex genom bandat material. De skall vänja sig vid att an-
 vända sitt språk hemma, med kamrater och i egna föreningar. Att
 kunna tala språket ger dem ökat självförtroende.
-
+
 
 ***** PAGE 141 *****
 
@@ -7330,6 +7374,8 @@ UD)
 
 OO
 
+OO
+
 referera och intervjua,
 
 utnyttja TV- och radioprogram på det egna språket för informa-
@@ -7348,7 +7394,7 @@ LÄSA OCH SKRIVA
 
 Eleverna bör helst få sin läs- och skrivinlärning på sitt eget moders-
 mål. Om elever har fått sin första läsinlärning på svenska, bör man
-
+
 
 ***** PAGE 142 *****
 
@@ -7405,7 +7451,7 @@ att skriva dikter och berättelser, referat och sakprosa eller göra
 tidningar,
 
 O arbeta med ursprungslandets litteratur, vers och prosa,
-
+
 
 ***** PAGE 143 *****
 
@@ -7433,7 +7479,7 @@ Den kulturförmedlande undervisningen i hemspråk bör komplet-
 
 teras med kulturorienterande inslag i ämnen som bild, slöjd, musik,
 hemkunskap.
-
+
 
 ***** PAGE 144 *****
 
@@ -7479,7 +7525,7 @@ Varje elev bör få ett visst antal träningstillfällen i skolan. Inlär-
 ningen, som innebär att man med rätt anslagsteknik och rätt finger-
 sättning lär sig skriva maskin, bör ske integrerat i olika ämnen helst
 redan på mellanstadiet. Undervisningen syftar till att i samverkan
-
+
 
 ***** PAGE 145 *****
 
@@ -7502,4 +7548,3 @@ aktivitet.
 
 Omfattningen av den tid som avsätts för maskinskrivning fast-
 ställs lokalt.
-

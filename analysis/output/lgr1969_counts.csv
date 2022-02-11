@@ -24,9 +24,10 @@ word,n
 6—38,1
 7—,1
 7—9,4
-=,27
+=,28
 ==m,1
 =allmänna,1
+=arbetsuppgifter,1
 =författaren,1
 =m,1
 =matematikundervisningen,1
@@ -75,7 +76,7 @@ aggressivitet,3
 aggressiviteten,1
 aggressivt,1
 agressivitet,1
-ah,2
+ah,3
 akt,4
 akta,1
 aktheten,1
@@ -541,7 +542,6 @@ artikulation,3
 artkunskap,1
 arundervisning,1
 arv,2
-as,1
 aspekt,2
 aspekter,11
 aspekterna,1
@@ -589,7 +589,7 @@ avbryta,1
 avböja,1
 avdelningar,2
 avdelningen,1
-aven,12
+aven,11
 avges,1
 avgränsa,1
 avgränsad,1
@@ -1748,7 +1748,6 @@ elevvårdspersonal,5
 ele—,1
 elimineras,1
 eller,583
-elteverna,1
 em,1
 emalj,1
 emellan,11
@@ -1884,6 +1883,7 @@ estetiskpraktiska,2
 estetiskt,6
 etablera,1
 etc,30
+eteverna,1
 etik,6
 etisk,1
 etiska,14
@@ -2029,9 +2029,9 @@ femtiotal,2
 fenomen,3
 festdagar,3
 ff,2
-ffrämmande,2
+ffrämmande,1
 fftämmande,1
-fftåga,2
+fftåga,1
 ffåga,2
 fickböcker,1
 fickpengar,3
@@ -2072,7 +2072,7 @@ fixerat,1
 fjällområde,1
 fjärde,1
 fjärran,1
-fl,5
+fl,6
 flaggans,1
 flanelltavla,1
 fler,3
@@ -2322,7 +2322,7 @@ frälsningshistorien,1
 främja,31
 främjar,7
 främjas,6
-främmande,27
+främmande,28
 främst,55
 främsta,8
 frätande,1
@@ -2341,6 +2341,7 @@ frånvaro,3
 frånvaron,1
 fröspridning,1
 fröväxters,1
+ftråga,1
 fuktning,1
 full,3
 fullfölja,2
@@ -2451,7 +2452,7 @@ färöisk,1
 fästas,2
 fäster,2
 fästs,1
-få,223
+få,222
 fågelläten,1
 fånga,2
 fångar,1
@@ -3597,12 +3598,12 @@ höstterminen,7
 höstterminens,1
 hösttermins,1
 höstterminsbetyget,4
-i,3793
+i,3790
 i!,1
 iaktta,17
 iaktta-,1
 iakttagbara,2
-iakttagelseförmåga,2
+iakttagelseförmåga,1
 iakttagelser,67
 iakttagelserna,2
 iakttagelseövningar,1
@@ -3639,7 +3640,6 @@ idéer,10
 idéerna,3
 idéskisser,1
 iedas,1
-iek,1
 iek-,1
 iekvisorna,1
 ifrågasatt,1
@@ -3653,7 +3653,8 @@ igång,1
 ihop,1
 ihärdigt,1
 ihåg,1
-ii,3
+ii,5
+iiakttagelseförmåga,1
 iindividuella,1
 illa,1
 illustration,1
@@ -4340,7 +4341,7 @@ kompenseras,1
 kompetens,1
 komplement,7
 komplett,1
-komplettera,9
+komplettera,8
 kompletterade,2
 kompletterande,13
 kompletterar,2
@@ -4850,6 +4851,7 @@ levnadsåren,1
 li,1
 lidande,1
 lie,1
+liek,1
 ligga,4
 liggande,4
 ligger,16
@@ -5119,7 +5121,7 @@ läroböcker,4
 lärogång,11
 lärogången,12
 läromdel,1
-läromedel,115
+läromedel,114
 läromedel!,1
 läromedels-,1
 läromedelsbeståndet,1
@@ -5153,6 +5155,7 @@ lärosalen,1
 lärostoff,82
 lärostoffet,36
 lärostoffets,10
+lärovalet,1
 lärt,4
 läs-,11
 läsa,39
@@ -5257,7 +5260,7 @@ lösningen,2
 lösningsbok,1
 lösryckas,1
 lösryckta,1
-m,61
+m,62
 m-toriska,1
 ma,1
 magneten,1
@@ -5463,8 +5466,6 @@ metodik,1
 metodisk,2
 metodiska,6
 metodiskt,7
-mfl,1
-mh,1
 mikrofoner,1
 mikroprojektion,1
 mikroskop,1
@@ -5555,7 +5556,8 @@ mjuka,2
 mjukt,2
 mm,16
 mmmusikundervisning,1
-mn,2
+mms,1
+mn,1
 mo,1
 mode,1
 modell,3
@@ -6090,7 +6092,7 @@ observationsundervisning,2
 observera,5
 observerar,1
 observeras,8
-och,5789
+och,5786
 också,237
 od,1
 odifferentierade,1
@@ -6742,7 +6744,8 @@ påverkas,3
 påvisa,4
 påvisas,2
 q,2
-qq,6
+qe,1
+qq,4
 qw,1
 qw$,1
 r,1
@@ -7147,7 +7150,7 @@ röstskador,1
 röstutveckling,2
 röstvård,8
 röstvårdsarbetet,1
-s,67
+s,68
 sagor,3
 sagostoff,1
 sagostunder,1
@@ -7571,7 +7574,7 @@ sko[an,1
 skog,3
 skogen,2
 skogsbygd,1
-skoilisköterskan,1
+skoisköterskan,1
 skol-,1
 skola,58
 skolaförening,1
@@ -7824,8 +7827,8 @@ släktskap,3
 släpps,1
 slättbygd,1
 slätten,1
-slöjd,62
-slöjd!,2
+slöjd,63
+slöjd!,1
 slöjd*****,1
 slöjd?,1
 slöjdalster,2
@@ -7879,7 +7882,7 @@ snatterier,1
 snatteriet,1
 sniffning,1
 snäv,1
-so,14
+so,15
 social,14
 sociala,67
 socialgrupperna,1
@@ -7901,7 +7904,7 @@ sommarsporter,1
 sort,1
 sort-,1
 sortiment,1
-sos,5
+sos,4
 sovra,1
 sovtider,1
 spaltas,2
@@ -8271,7 +8274,7 @@ stått,1
 stöd,22
 stödelevvård,1
 stöder,3
-stödja,13
+stödja,12
 stödjande,8
 stödjas,3
 stödjepunkter,1
@@ -9743,7 +9746,7 @@ val,65
 vald,1
 valda,40
 valen,1
-valet,37
+valet,36
 valets,2
 valfri,1
 valfria,1
@@ -9779,7 +9782,7 @@ varaktiga,3
 varaktigare,2
 varaktighet,1
 varaktigt,3
-varandra,51
+varandra,50
 varandras,3
 varannan,1
 varar,1
@@ -9897,7 +9900,7 @@ verksamheten,47
 verksamhetens,5
 verksamheter,13
 verksamhetsform,3
-verksamhetsformer,12
+verksamhetsformer,11
 verksamhetsformerna,2
 verksamhetsformér,1
 verksamhetslust,1
@@ -10196,8 +10199,8 @@ vårterminen,4
 vårterminens,2
 vårterminsbetyget,2
 w,2
-wow,1
-ww,8
+w$öw,1
+ww,7
 wwa,1
 yngelvård,1
 yngre,8
@@ -10265,7 +10268,6 @@ ytvidden,1
 |åk7—9,1
 |åk7—b]åke—o,1
 £,1
-«arbetsuppgifter,1
 «konkretiseras,1
 «söka,1
 »,1
@@ -10352,7 +10354,7 @@ ytvidden,1
 ärftlighet,3
 ärlighet,2
 äromedel,1
-även,293
+även,294
 ävensom,1
 å,13
 ådagalägger,1
@@ -10489,6 +10491,7 @@ ytvidden,1
 åvila,1
 åvilar,5
 åvägabringas,1
+öch,1
 ödesdigert,1
 ögats,1
 ögnas,1

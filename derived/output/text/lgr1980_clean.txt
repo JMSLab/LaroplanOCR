@@ -61,7 +61,29 @@ För verksamheten inom specialskolan och sameundervisningen utger skolöverstyre
 
 ***** PAGE 5 *****
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 Mål och riktlinjer
+
+Rn SS a — Oo oo
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
 
 
 ***** PAGE 6 *****
@@ -377,7 +399,7 @@ Planering av studierna
 
 Innehåll och samverkan 29 genom minst veckolånga perioder skaffa sig erfarenheter från var och en av följande tre arbetslivssektorer:
 
-OO Teknik och tillverkning OQO Handel, kommunikation, service, jord- och skogsbruk 0 Kontor och förvaltning, vård och undervisning
+0 Teknik och tillverkning OQO Handel, kommunikation, service, jord- och skogsbruk 0 Kontor och förvaltning, vård och undervisning
 
 Skolan skall därvid verka för att eleverna kombinerar valen inom de tre sektorerna på ett sådant sätt, att de ger pojkar inblick i kvinnodominerade yrken och flickor i mansdominerade.
 
@@ -391,7 +413,7 @@ Planeringen i klasserna — eller i arbetsenheterna eller i andra former som sko
 
 Men dessutom måste lärarna i planeringen tillsammans med eleverna ange vilka insikter i en fråga eller vilka färdigheter som man vill ha uppnått efter en viss tid. För elevernas motivation är det centralt att de har näraliggande, klara etappmål att sträva emot. De måste kunna uppleva att de lyckas, lär sig något och gör framsteg. Det är också viktigt att motivet för att lära sig en viss bestämd kunskap klargörs. Diffus orientering är förödande för motivationen. Eftersom planeringen görs gemensamt av lärare och elever, kan läraren ta hänsyn till elevernas olika förutsättningar. Vid planeringen måste man utgå från de centrala begreppen i målen och från kursplanernas huvudmoment. Först därefter bör valet av lämpliga läromedel — studiebesök, lärobok, tidningar, experiment — komma in.
 
-Vid den konkreta planeringen i skolan skall man utgå från den tid som står till förfogande. Har man kommit överens om att en del av tiden i ett ämne skall anslås till temaarbeten, måste stoffmängden i övrigt anpassas därefter. Tillräcklig tid måste avsättas för praktisk
+Vid den konkreta planeringen i skolan skall man utgå från den tid som står till förfogande. Har man kommit överens om att en del av tiden i ett ämne skall anslås till temaarbeten, måste stoffmängden i Övrigt anpassas därefter. Tillräcklig tid måste avsättas för praktisk
 
 
 ***** PAGE 24 *****
@@ -906,7 +928,7 @@ Elever med särskilda behov SS
 
  
 
-0 Man kan anslå tid till hjälp med hemuppgifter åt elever, som inte har möjlighet att fullgöra sin uppgift hemma.
+O Man kan anslå tid till hjälp med hemuppgifter åt elever, som inte har möjlighet att fullgöra sin uppgift hemma.
 
 Skulle dessa möjligheter till ett mångsidigt arbete, vad gäller metodik, innehåll och organisation, inte förslå, skall elevens situation diskuteras i elevvårdskonferensen. Elevens svårigheter kan vara så stora att han eller hon under längre tid — mer än en termin — behöver stöd i särskild undervisningsgrupp. Skolan måste då göra en mer ingående utredning om elevens situation. Elevvårdskonferensen kan, i samråd med elev och föräldrar, besluta att elev skall följa sådan särskild undervisningsgrupp, om den finns inrättad. Närmare föreskrifter härom finns i skolförordningen. Elever, som på så sätt kommer att arbeta utanför arbetsenheten, förlorar den omedelbara kontakten med sina kamrater. Särskild undervisningsgrupp bör därför begränsas till enbart det eller de ämnen, där elevens svårigheter är särskilt stora.
 
@@ -1003,9 +1025,9 @@ Utvärdering konsumentfrågor trafikfrågor alkohol, narkotika och tobak könsro
 
 0 Arbetsplanen bör behandla det fria studievalet. Ambitionerna kan här exempelvis vara att väcka intresse för en viss grupp av aktiviteter, att utnyttja lokala förhållanden, att få elever att leda program, att engagera föräldrar, kulturarbetare och föreningar, att motverka könsbundna val samt givetvis först och främst att eleverna upplever kurser och aktiviteter engagerande och lärorika
 
-0 I arbetsplanen bör ingå program för temastudier, för elevernas egen aktiva medverkan i olika arbetsuppgifter, för formerna och omfattningen av hem- och skolakontakter, för konferensverksamheten m m.
+O I arbetsplanen bör ingå program för temastudier, för elevernas egen aktiva medverkan i olika arbetsuppgifter, för formerna och omfattningen av hem- och skolakontakter, för konferensverksamheten m m.
 
-Arbetsplanen skall således inte enbart vara beskrivande. Den skall dessutom så långt möjligt uttrycka en ambitionsnivå, som man 1okalt kommit överens om att söka uppnå.
+Arbetsplanen skall således inte enbart vara beskrivande. Den skall dessutom så långt möjligt uttrycka en ambitionsnivå, som man l1okalt kommit överens om att söka uppnå.
 
 Planeringsuppgifter är en del av arbetsskyldigheten för lärare och annan skolpersonal. Skolledningen har ansvaret för att inspirera och organisera det samlade arbetet inom rektorsområdet.
 
@@ -1034,7 +1056,27 @@ En arbetsplan vid en skola blir därför aldrig en färdig produkt. Den måste s
 
 ***** PAGE 57 *****
 
-Kursplaner
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STTEJOETA:
+
+ 
+
+ 
+
+ 
 
 
 ***** PAGE 58 *****
@@ -1170,9 +1212,7 @@ Arbetet med bilder är därför viktigt för barnens självkänsla och hänger n
 
 Eleverna behöver träning, uppmuntran och annan stimulans. Annars riskerar bildarbetet att tappa sin språkliga betydelse för barnen och då förlorar de en viktig bit av sin förmåga att yttra sig och meddela sig med andra.
 
-Lågstadiet Eleverna skall
-
-O bearbeta och ge form åt iakttagelser, känlsor och åsikter i material och bildtekniker som teckning, målning, collage, skulptur, tryck, foto och film eller video,
+Lågstadiet Eleverna skall 0 bearbeta och ge form åt iakttagelser, känlsor och åsikter i material och bildtekniker som teckning, målning, collage, skulptur, tryck, foto och film eller video,
 
 O använda sitt bildspråk i läs- och skrivundervisningen, 0 i form- och byggbart material konkretisera orienteringsämnena,
 
@@ -1201,11 +1241,11 @@ O utveckla sin förmåga att använda två- och tredimensionella bildtekniker oc
 
 O undersöka förhållandet mellan bildens yta och rum och använda form, ljus och skugga, perspektiviska förkortningar etc för att ge föreställning om och skapa djup och volym,
 
-Od studera hur människor och djur rör sig och lära sig använda olika sätt att uttrycka rörelse i bild,
+O studera hur människor och djur rör sig och lära sig använda olika sätt att uttrycka rörelse i bild,
 
 0 arbeta med färg och bli medvetna om färgers symboliska funktioner och stämningsskapande egenskaper,
 
-OO fördjupa sina kunskaper om kameran, om den fotografiska bildens, filmens och videons uttrycksmöjligheter samt om framkallning, kopiering och redigering.
+Oo fördjupa sina kunskaper om kameran, om den fotografiska bildens, filmens och videons uttrycksmöjligheter samt om framkallning, kopiering och redigering.
 
 Om utrustning finns, bör eleverna också få 0 lära sig hantera djuptryck, plantryck och högtryck för att mångfaldiga bilder.
 
@@ -1253,7 +1293,7 @@ För att eleverna skall bli medvetna om bildens många möjligheter att underhå
 
 Alla tre stadierna Eleverna skall i ämnet och i samband med undervisningen i andra ämnen tillverka bilder för att 0 ge kunskaper och anvisningar,
 
-O informera och förmedla nyheter, 0 propagera och göra reklam,
+O informera och förmedla nyheter. CZ propagera och göra reklam,
 
 0 underhålla och roa.
 
@@ -1267,14 +1307,16 @@ Detta är viktigt inte minst mot bakgrund av att de flesta bilder för barn och 
 
 Lågstadiet och mellanstadiet Eleverna skall 0 lära sig att uppsöka och använda det rika kulturarv som finns i svenska och utländska bilderböcker, bokillustrationer, affischer, filmer. TV-program etc,
 
-O lära sig att uppleva konstbilder och ta emot den kunskap och de möjligheter till associationer som finns koncentrerade i dem,
+0 lära sig att uppleva konstbilder och ta emot den kunskap och de möjligheter till associationer som finns koncentrerade i dem,
 
 
 ***** PAGE 68 *****
 
 14 — Kursplaner 0 diskutera tycke och smak och kvalitet och värden och värderingar.
 
-Högstadiet Arbetet på högstadiet skall ha samma inriktning som på lågstadiet och mellanstadiet och ge eleverna ytterligare möjligheter att 0 studera olika konstarter och olika idéer om bildkonstnärers roll i samhället,
+Högstadiet Arbetet på högstadiet skall ha samma inriktning som på lågstadiet och mellanstadiet och ge eleverna ytterligare möjligheter att
+
+OQO studera olika konstarter och olika idéer om bildkonstnärers roll i samhället,
 
 0 bli medvetna om samhällets kulturpolitik på bildens område och undersöka vilka åtgärder som vidtas för att uppnå de kulturpolitiska målen.
 
@@ -1288,7 +1330,7 @@ Lågstadiet och mellanstadiet I samverkan mellan bildämnet och andra ämnen ska
 
 0 räkna på omfattningen av sin kulturkonsumtion, vad den kostar dem själva och kamraterna och ta reda på vem som säljer produkterna,
 
-AO i ord och bild beskriva för varandra hur de använder massmedieprodukterna och vad de ensamma eller tillsammans med andra barn samt vuxna får ut och lär sig av att sysselsätta sig med produkterna.
+OQO i ord och bild beskriva för varandra hur de använder massmedieprodukterna och vad de ensamma eller tillsammans med andra barn samt vuxna får ut och lär sig av att sysselsätta sig med produkterna.
 
 
 ***** PAGE 69 *****
@@ -1301,7 +1343,7 @@ Högstadiet Eleverna skall, i samverkan med andra ämnen vidga sin kunskap om mi
 
 DO undersöka de avsikter som ligger bakom planeringen av den fysiska miljön och hur arkitekturens och miljöns formspråk påverkar den egna upplevelsen av trygghet, rädsla, avspändhet och hot och därvid diskutera hur man kan motverka vandalisering i samhälle och skola,
 
-OO undersöka skolans miljö. Därvid skall skolans yttre och inre rumsbildning, formgivning och sätt att inreda och möblera studeras,
+O undersöka skolans miljö. Därvid skall skolans yttre och inre rumsbildning, formgivning och sätt att inreda och möblera studeras,
 
 OQO undersöka hur producenter använder sig av idoler, ”kändisar”, mode, olika medier, produkter och miljöer för att sprida sina budskap och bli medvetna om den egna kulturkonsumtionens omfattning och om vad den kostar, vem som tillhandahåller den och i vilken grad tillgång och konsumtion styrs av intressen innanför och utanför landets gränser samt hur detta påverkar kulturutbyte och olika kulturer i Sverige,
 
@@ -1572,7 +1614,7 @@ I undervisningen skall
 
 O vardagsliv, arbetsliv, samhällsliv, geografiska förhållanden, kultur samt aktuella problem i de fransk/tysktalande länderna på olika sätt tas upp till behandling och jämföras med motsvarande förhållanden i Sverige,
 
-0 viktiga aktuella händelser i de fransk/tysktalande länderna behandlas och diskuteras,
+O viktiga aktuella händelser i de fransk/tysktalande länderna behandlas och diskuteras,
 
 0 eleverna få tillfälle att öva sig att på franska/tyska ge upplysningar om svenska förhållanden,
 
@@ -2032,9 +2074,7 @@ O matematik kan användas för att beskriva verkligheten och för att beräkna f
 
 0 elevernas färdighet i matematik efterhand skall byggas upp och de skall få insikt i hur den kan nyttjas.
 
-MÅL Undervisningen i matematik skall utgå från elevernas erfarenheter och behov och förbereda dem för rollen som vuxna medborgare. Eleverna skall därför i första hand skaffa sig god förmåga att lösa sådana matematiska problem som vanligen förekommer i vardagslivet. Detta innebär att eleverna genom undervisningen skall förvärva
-
-O säkerhet i numerisk räkning med och utan hjälpmedel,
+MÅL Undervisningen i matematik skall utgå från elevernas erfarenheter och behov och förbereda dem för rollen som vuxna medborgare. Eleverna skall därför i första hand skaffa sig god förmåga att lösa sådana matematiska problem som vanligen förekommer i vardagslivet. Detta innebär att eleverna genom undervisningen skall förvärva 0 säkerhet i numerisk räkning med och utan hjälpmedel,
 
 O färdigheter i huvudräkning och överslagsräkning,
 
@@ -2133,7 +2173,7 @@ De flesta människor har främst användning för naturliga tal och tal i decima
 
 ***** PAGE 96 *****
 
-102 Kursplaner det praktiska livet och behandlas i lägre årskurser bara i anslutning till elevernas frågor och andra skolämnen. Det gäller också begreppen kvadrat, kvadratrot och tiopotens något högre upp i årskurserna. Tal som 2 och 3/7 kan t ex med hjälp av miniräknare avrundas till tal i decimalform. Man bör också uppmärksamma att subtraktioner av negativa tal liksom multiplikationer av två negativa tal knappast förekommer i praktiska situationer.
+102 Kursplaner det praktiska livet och behandlas i lägre årskurser bara i anslutning till elevernas frågor och andra skolämnen. Det gäller också begreppen kvadrat, kvadratrot och tiopotens något högre upp i årskurserna. Tal som Vv2 och 3/7 kan t ex med hjälp av miniräknare avrundas till tal i decimalform. Man bör också uppmärksamma att subtraktioner av negativa tal liksom multiplikationer av två negativa tal knappast förekommer i praktiska situationer.
 
 Lågstadiet och mellanstadiet Negativa tal förekommer t ex som minusgrader. Bråk som 1/2 och 1/3 tas upp och storleksordnas laborativt.
 
@@ -2217,7 +2257,7 @@ Skala i vardaglig användning behandlas. Eleverna bör i första hand utnyttja k
 
 Högstadiet
 
-Tillämpningar och praktisk användning av geometri i vardagliga situationer vidareutvecklas. Stoffet väljs från omgivningen och från vardagliga sysselsättningar, tex att sy, sticka, måla och snickra. Skalbegreppet används främst i praktiska sammanhang.
+Tillämpningar och praktisk användning av geometri i vardagliga situationer vidareutvecklas. Stoffet väljs från omgivningen och från vardagliga sysselsättningar, t ex att sy, sticka, måla och snickra. Skalbegreppet används främst i praktiska sammanhang.
 
 Vidare bör en grund läggas för en mera formaliserad geometri. Denna undervisning kräver stor urskiljning och hänsynstagande till elevens mognad. Begrepp och samband för vinklar i trianglar och fyrhörningar och vid räta linjers skärning samt problem i anslutning därtill tas upp liksom andra vanliga geometriska begrepp och beteckningar. Mätningar och beräkningar av cirkelns omkrets och area samt av polygonområden görs. Kongruens och likformighet behandlas. Rymdgeometriska figurers konstruktion samt beräkning av begränsningsarea och volym för prisma, cylinder, pyramid, kon och klot tas också upp.
 
@@ -2319,6 +2359,8 @@ OO
 
 OO
 
+OO
+
 utföra enkla rytm- och rörelseövningar med eller utan musik för att uppleva och träna bl a puls, takt, rytm, tempo och dynamik,
 
 leka med rytm i ord och meningar, talkörer och ramsor,
@@ -2368,7 +2410,7 @@ Q spela på olika melodi-, ackord- och rytminstrument till sång, dikt, dans ell
 
 O sjunga sånger från skilda tider och genrer med skiftande innehåll och karaktär, även dagsaktuella sånger,
 
-0 utföra ljudkompositioner med instrument, röster och andra ljudkällor.
+O utföra ljudkompositioner med instrument, röster och andra ljudkällor.
 
 ATT SKAPA MUSIK
 
@@ -2490,9 +2532,9 @@ O eleverna skall lära sig förstå människolivets betingelser och samspelet me
 
 OD eleverna skall få kunskap om naturen och dess lagar,
 
-OD eleverna skall få kunskap om mänsklig verksamhet förr och nu,
+0 eleverna skall få kunskap om mänsklig verksamhet förr och nu,
 
-O eleverna skall få kunskap om medborgarnas rättigheter och skyldigheter,
+O eleverna skall få kunskap om medborgarnas räåttigheter och skyldigheter,
 
 O eleverna skall få kunskaper om och kontakt med livsåskådningsfrågor.
 
@@ -3421,7 +3463,7 @@ Alla elever som undervisas i hemspråk har inte samma tillgång till sitt språk
 
 ***** PAGE 140 *****
 
-146 = Kursplaner
+146 Kursplaner
 
 HUVUDMOMENT
 
@@ -3467,6 +3509,8 @@ lära sig intervjua, utöka sitt ordförråd i alla sammanhang, träna vardaglig
 Högstadiet I arbetet ingår fördjupning och tillämpning av det förut inlärda samt vidare studier i att
 
 OD UD)
+
+OO
 
 OO
 
