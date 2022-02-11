@@ -8,7 +8,7 @@ def main():
     instub  = 'derived/output/images'
     outstub = 'derived/output/text'
 
-    df_lgr = pd.read_csv('laroplaner.csv')
+    df_lgr    = pd.read_csv('laroplaner.csv')
     lgr_years = df_lgr.year.tolist()
 
     ocr_agent = lp.TesseractAgent(languages = 'swe')
@@ -17,8 +17,12 @@ def main():
 
         f_p = df_lgr.loc[df_lgr.year == lgr].first_rel_page.values[0]
         l_p = df_lgr.loc[df_lgr.year == lgr].last_rel_page.values[0]
+        
+        range_pages = range(l_p - f_p + 1)
+        if lgr 
 
-        pages = [f'page_{i}.jpg' for i in range(l_p - f_p + 1)]
+        pages = [ff for ff in os.listdir(os.path.join(instub, str(lgr)))
+                    if '.jpg' in ff]
 
         laroplan_text = ''
 
