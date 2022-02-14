@@ -41,7 +41,6 @@ for (ww in wildcard_words) {
 df_wildcard$approach <- "wildcard"
 
 df_counts <- rbind(df_exact, df_wildcard)
-# View(df_counts)
 
 # Group counts by keywords
 
