@@ -14,13 +14,7 @@ def main():
     ocr_agent = lp.TesseractAgent(languages = 'swe')
 
     for lgr in lgr_years:
-
-        f_p = df_lgr.loc[df_lgr.year == lgr].first_rel_page.values[0]
-        l_p = df_lgr.loc[df_lgr.year == lgr].last_rel_page.values[0]
         
-        range_pages = range(l_p - f_p + 1)
-        if lgr 
-
         pages = [ff for ff in os.listdir(os.path.join(instub, str(lgr)))
                     if '.jpg' in ff]
 

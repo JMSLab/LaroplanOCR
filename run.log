@@ -1,14 +1,14 @@
-Started at 10:04:17PM Eastern Standard Time on Jan 27, 2022
+Started at 09:24:27AM Pacific Standard Time on Feb 11, 2022
 
-10:04:17PM   :derived/code/make_images.py started
-10:30:19PM   :derived/code/make_images.py completed
-10:30:19PM   :derived/code/ocr.py started
-01:12:29AM   :derived/code/ocr.py completed
-01:12:29AM   :derived/code/clean.py started
-01:12:30AM   :derived/code/clean.py completed
-01:12:30AM   :analysis/code/make_data.py started
-01:12:31AM   :analysis/code/make_data.py completed
-01:12:31AM   :analysis/code/count.py started
-01:12:34AM   :analysis/code/count.py completed
+09:24:27AM   :derived/code/make_images.py started
+10:20:08AM   :derived/code/make_images.py completed
+10:20:08AM   :derived/code/ocr.py started
+06:30:23PM   :derived/code/ocr.py completed
+06:30:23PM   :derived/code/clean.py started
+06:30:26PM   :derived/code/clean.py completed
+06:30:26PM   :analysis/code/make_data.py started
+06:30:29PM   :analysis/code/make_data.py completed
+06:30:29PM   :analysis/code/count.py started
+06:30:36PM   :analysis/code/count.py completed
 
-Finished at 01:12:34AM Eastern Standard Time on Jan 28, 2022
+Finished at 06:30:36PM Pacific Standard Time on Feb 11, 2022
