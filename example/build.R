@@ -4,13 +4,14 @@ library(ggplot2)
 
 # Load data
 
-lgr_years <- c(1962, 1969, 1980)
+lgr_years <- c("1962", "1969", "1980", "1994a", "1994b", "2011")
 
 df <- data.frame()
 for (lgr in lgr_years) {
   df_lgr <- read.table(sprintf('../analysis/output/lgr%s_counts.csv', lgr),
                        sep = ',', header = T, fileEncoding = 'utf-8')
-  df_lgr$year = lgr
+  df_lgr$year_str = lgr
+  df_lgr$year     = as.integer(substr(lgr, 1, 4))
   
   df <- rbind(df, df_lgr)
 }
@@ -39,8 +40,8 @@ for (ww in wildcard_words) {
 }
 df_wildcard$approach <- "wildcard"
 
-(df_counts <- rbind(df_exact, df_wildcard))
-
+df_counts <- rbind(df_exact, df_wildcard)
+# View(df_counts)
 
 # Group counts by keywords
 
@@ -57,7 +58,7 @@ ggplot(df_counts,
        aes(y = Count, x = year, color = keyword)) +
   geom_line() +
   geom_point() +
-  scale_x_continuous(breaks = lgr_years,
+  scale_x_continuous(breaks = unique(df_counts$year),
                      name   = "Year") +
   theme_bw() +
   theme(legend.position = 'bottom',
