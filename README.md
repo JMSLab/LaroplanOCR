@@ -73,11 +73,7 @@ Each folder hosts an `/output/` subfolder where output from each script is saved
     pip install -r requirements.txt
     ```
 
-    (If using `conda`, run `conda install --file requirements.txt`.)
-
-3. Make sure that all the required program executables are in your system's path.
-
-4. To compile the entire project, open the command-line and run
+3. To compile the entire project, open the command-line and run
 
     ```
     python run.py
