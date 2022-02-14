@@ -35,6 +35,7 @@ To do so, you need the following prerequisites.
 
 - For Mac, you also need to install `poppler for Mac` in order to use the python package `pdf2image`, see [here](https://github.com/Belval/pdf2image/blob/master/README.md).
 
+Users may notice small differences in output across machines due to the way images are processed.
 
 #### Repository structure
 
