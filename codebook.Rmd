@@ -65,6 +65,10 @@ laroplaner <- read.csv("laroplaner.csv") %>%
 
 ## Overview
 ```{r overview, include = F}
+readme <- readme %>%
+  mutate(text = gsub("[`./analysis/output/`](analysis/output)",
+                     "[`./datasets/`](datasets)", text, fixed = T))
+
 overview_lines <- readme %>% filter(title_name == "LaroplanOCR")
 overview_text  <- paste0(overview_lines$text, collapse = "\n")
 ```
