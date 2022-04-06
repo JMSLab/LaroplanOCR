@@ -14,8 +14,6 @@ def main():
         os.remove("codebook.md")
     
     os.system('''Rscript -e "rmarkdown::render('codebook.Rmd')"''')
-    shutil.copy(src = "codebook.md",
-                dst = os.path.join("release", "codebook.md"))
     
     # Make zip file
     log_file.write(time.strftime('%I:%M:%S%p') + "   : Build of release.zip started\n")
@@ -26,6 +24,10 @@ def main():
         os.remove("release.zip")
     
     os.mkdir("release")
+    
+    shutil.move(src = "codebook.md",
+                dst = os.path.join("release", "codebook.md"))
+    
     for ff in [os.path.join('raw', 'orig'), 'example']:
         shutil.copytree(src = ff, 
                         dst = os.path.join("release", ff))
