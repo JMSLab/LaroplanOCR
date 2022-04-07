@@ -81,6 +81,8 @@ We include the following Läroplaner in the data:
 kable(laroplaner)
 ```
 
+The full code that processes the raw pdf files into the datasets available in this package can be found in [github.com/JMSLab/LaroplanOCR](https://github.com/JMSLab/LaroplanOCR)
+
 
 ## Using the Datasets
 ```{r datasets, include = F}
