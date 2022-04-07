@@ -75,9 +75,8 @@ overview_text  <- paste0(overview_lines$text, collapse = "\n")
 
 `r overview_text`
 
-The Läroplaner we use can be found in the folder `raw/orig/`.
-
 We include the following Läroplaner in the data:
+
 ```{r, echo = F}
 kable(laroplaner)
 ```
