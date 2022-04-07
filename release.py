@@ -10,8 +10,8 @@ def main():
     # Compile codebook.md    
     log_file.write(time.strftime('%I:%M:%S%p') + "   : Compilation of codebook.md started\n")
     
-    if os.path.exists("codebook.md"):
-        os.remove("codebook.md")
+    if os.path.exists("codebook.pdf"):
+        os.remove("codebook.pdf")
     
     os.system('''Rscript -e "rmarkdown::render('codebook.Rmd')"''')
     
@@ -25,8 +25,8 @@ def main():
     
     os.mkdir("release")
     
-    shutil.move(src = "codebook.md",
-                dst = os.path.join("release", "codebook.md"))
+    shutil.move(src = "codebook.pdf",
+                dst = os.path.join("release", "codebook.pdf"))
     
     shutil.copy(src = "LICENSE",
                 dst = os.path.join("release", "LICENSE"))

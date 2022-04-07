@@ -1,9 +1,8 @@
 ---
-title: "Codebook"
+title: "Codebook for LaroplanOCR"
 date: "\n`r format(Sys.time(), '%d %B, %Y')`"
 output:
-  github_document:
-    html_preview: false
+  pdf_document:
     toc: true
     toc_depth: 2
 ---
@@ -79,12 +78,13 @@ We include the following Läroplaner in the data:
 
 ```{r, echo = F}
 kable(laroplaner,
-      col.names = c("Year", "Title"))
+      col.names = c("Year", "Title"),
+      align     = c('c', 'l'))
 ```
 
 The files were obtained from the [Gothenburg University Publications Electronic Archive](https://gupea.ub.gu.se/).
 
-The full code that processes the raw pdf files into the datasets available in this package can be found in [github.com/JMSLab/LaroplanOCR](https://github.com/JMSLab/LaroplanOCR).
+The full code that processes the raw pdf files into the datasets available in this package can be found in [`github.com/JMSLab/LaroplanOCR`](https://github.com/JMSLab/LaroplanOCR).
 
 
 ## Using the Datasets
@@ -109,7 +109,8 @@ vars <- paste0(vars, collapse = ", ")
 sumstats <- df.all %>%
   group_by(year) %>%
   summarise(unique_words = n(),
-            mean_count   = round(mean(n), 2))
+            mean_count   = round(mean(n), 2)) %>%
+  mutate(unique_words = format(unique_words, big.mark = ","))
 ```
 
 The "counts" files include two variables: `r vars`.
@@ -117,7 +118,8 @@ The "counts" files include two variables: `r vars`.
 Some summary statistics of these variables:
 ```{r, echo = F}
 kable(sumstats,
-      col.names = c("Year", "Unique word", "Mean n"))
+      col.names = c("Year", "Unique word", "Mean n"),
+      align     = rep('c', 3))
 ```
 
 
