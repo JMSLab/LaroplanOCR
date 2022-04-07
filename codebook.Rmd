@@ -82,6 +82,8 @@ kable(laroplaner,
       col.names = c("Year", "Title"))
 ```
 
+The files were obtained from the [Gothenburg University Publications Electronic Archive](https://gupea.ub.gu.se/).
+
 The full code that processes the raw pdf files into the datasets available in this package can be found in [github.com/JMSLab/LaroplanOCR](https://github.com/JMSLab/LaroplanOCR).
 
 
