@@ -56,9 +56,9 @@ for (i in 1:length(dfs)) {
   df.all <- bind_rows(df.all, df)
 }
 
-laroplaner <- read.csv("laroplaner.csv") %>%
-  select(year, file) %>%
-  rename(Year = year, File = file)
+laroplaner <- read.csv("laroplaner.csv",
+                       encoding = 'UTF-8') %>%
+  select(year, lgr_name)
 ```
 
 
@@ -78,7 +78,8 @@ overview_text  <- paste0(overview_lines$text, collapse = "\n")
 We include the following Läroplaner in the data:
 
 ```{r, echo = F}
-kable(laroplaner)
+kable(laroplaner,
+      col.names = c("Year", "Title"))
 ```
 
 The full code that processes the raw pdf files into the datasets available in this package can be found in [github.com/JMSLab/LaroplanOCR](https://github.com/JMSLab/LaroplanOCR)
