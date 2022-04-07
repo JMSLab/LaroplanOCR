@@ -4,7 +4,7 @@ import shutil
 
 def main():
     
-    log_file = open("release.log", 'w')
+    log_file = open(os.path.join("log", "release.log"), 'w')
     log_file.write("Started at " + time.strftime('%I:%M:%S%p %Z on %b %d, %Y\n\n'))
     
     # Compile codebook.md    
@@ -28,9 +28,11 @@ def main():
     shutil.move(src = "codebook.md",
                 dst = os.path.join("release", "codebook.md"))
     
-    for ff in [os.path.join('raw', 'orig'), 'example']:
-        shutil.copytree(src = ff, 
-                        dst = os.path.join("release", ff))
+    shutil.copy(src = "LICENSE",
+                dst = os.path.join("release", "LICENSE"))
+
+    shutil.copytree(src = "example", 
+                    dst = os.path.join("release", "example"))
     
     shutil.copytree(src = os.path.join("analysis", "output"),
                     dst = os.path.join("release", "datasets"))

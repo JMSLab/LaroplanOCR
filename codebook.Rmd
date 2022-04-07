@@ -1,6 +1,5 @@
 ---
 title: "Codebook"
-author: "\nSantiago Hermo"
 date: "\n`r format(Sys.time(), '%d %B, %Y')`"
 output:
   github_document:
