@@ -1,0 +1,132 @@
+---
+title: "Codebook for LaroplanOCR"
+date: "\n`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 2
+---
+
+```{r prepare readme, include = F}
+remove(list = ls())
+library(knitr)
+library(dplyr)
+library(stringr)
+knitr::opts_chunk$set(echo = TRUE)
+
+## Prepare README data
+
+readme <- read.delim("README.md", header = F, sep = "\n",
+                     col.names = "text", encoding = 'UTF-8')
+
+readme <- readme %>%
+  mutate(title    = 1*grepl("## |### ", text),
+         subtitle = 1*grepl("#### ",    text),
+         title_num =  cumsum(title))
+
+titles <- readme %>%
+  group_by(title_num) %>%
+  summarise(title_name = first(text)) %>%
+  ungroup() %>%
+  mutate(title_name = str_trim(gsub("#", "", title_name)))
+
+readme <- readme %>%
+  left_join(titles, by = "title_num") %>%
+  filter(title == 0)
+
+```
+
+
+```{r prepare codebook, include = F}
+counts_files <- list.files(path = "analysis/output", pattern = "*_counts.csv",
+                           full.names = T)
+dfs <- lapply(counts_files, read.csv)
+
+df.all <- data.frame()
+for (i in 1:length(dfs)) {
+  yyyy <- substr(basename(counts_files[i]), 4, 7)
+  if (yyyy == "1994") {
+    yyyy <- substr(basename(counts_files[i]), 4, 8)
+  }
+  
+  df <- dfs[[i]] %>%
+    mutate(year = yyyy)
+  
+  df.all <- bind_rows(df.all, df)
+}
+
+laroplaner <- read.csv("laroplaner.csv",
+                       encoding = 'UTF-8') %>%
+  select(year, lgr_name)
+```
+
+
+## Overview
+```{r overview, include = F}
+readme <- readme %>%
+  mutate(text = gsub("[`./analysis/output/`](analysis/output)",
+                     "[`./datasets/`](datasets)", text, fixed = T))
+
+overview_lines <- readme %>% filter(title_name == "LaroplanOCR")
+overview_text  <- paste0(overview_lines$text, collapse = "\n")
+```
+
+
+`r overview_text`
+
+We include the following Läroplaner in the data:
+
+```{r, echo = F}
+kable(laroplaner,
+      col.names = c("Year", "Title"),
+      align     = c('c', 'l'))
+```
+
+The files were obtained from the [Gothenburg University Publications Electronic Archive](https://gupea.ub.gu.se/).
+
+The full code that processes the raw pdf files into the datasets available in this package can be found in [`github.com/JMSLab/LaroplanOCR`](https://github.com/JMSLab/LaroplanOCR).
+
+
+## Using the Datasets
+```{r datasets, include = F}
+datasets_lines <- readme %>% filter(title_name == "Using the Datasets")
+datasets_lines <- datasets_lines %>%
+  mutate(text = ifelse(grepl(":", text),       paste(text, "\n"), text)) %>%
+  mutate(text = ifelse(grepl("lgrYYYY", text), paste(text, "\n"), text))
+
+datasets_text  <- paste0(datasets_lines$text, collapse = "\n")
+```
+
+
+`r datasets_text`
+
+## Counts
+```{r codebook, include = F}
+vars <- names(dfs[[1]])
+for (i in 1:length(vars)) vars[i] <- paste0('`', vars[i], '`')
+vars <- paste0(vars, collapse = ", ")
+
+sumstats <- df.all %>%
+  group_by(year) %>%
+  summarise(unique_words = n(),
+            mean_count   = round(mean(n), 2)) %>%
+  mutate(unique_words = format(unique_words, big.mark = ","))
+```
+
+The "counts" files include two variables: `r vars`.
+
+Some summary statistics of these variables:
+```{r, echo = F}
+kable(sumstats,
+      col.names = c("Year", "Unique word", "Mean n"),
+      align     = rep('c', 3))
+```
+
+
+## Citations
+```{r citations, include = F}
+citations_lines <- readme %>% filter(title_name == "Citations")
+citations_text  <- paste0(citations_lines$text, collapse = "\n")
+```
+
+`r citations_text`

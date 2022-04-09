@@ -86,8 +86,8 @@ Each folder hosts an `/output/` subfolder where output from each script is saved
 
 ### Citations
 
-* Hermo, S., Lundqvist, C., Päällysaho, M., Seim, D., Shapiro, Jesse M., and Trollbäck, S. 2021. LaroplanOCR. Code and data repository at https://github.com/JMSLab/LaroplanOCR.
-* Hermo, S., Päällysaho, M., Seim, D., and Shapiro, Jesse M. 2021. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence. NBER Working Paper Number 29135. URL: https://www.nber.org/papers/w29135.
+* Hermo, Santiago, Christian Lundqvist, Miika Päällysaho, David Seim, Jesse M. Shapiro, and Stina Trollbäck. 2022. LaroplanOCR. Code and data repository at <https://github.com/JMSLab/LaroplanOCR>.
+* Hermo, Santiago, Miika Päällysaho, David Seim, and  Jesse M. Shapiro. 2022. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence. NBER Working Paper Number 29135. URL: <https://www.nber.org/papers/w29135>.
 
 
 ### Acknowledgments

@@ -9,7 +9,7 @@ def main():
                'analysis/code/make_data.py',
                'analysis/code/count.py']
     
-    log_file = open("run.log", 'w')
+    log_file = open(os.path.join("log", "run.log"), 'w')
     log_file.write("Started at " + time.strftime('%I:%M:%S%p %Z on %b %d, %Y\n\n'))
     
     for script in scripts:

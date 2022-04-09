@@ -1,7 +1,7 @@
-year,file,first_nonindex_page,first_rel_page,last_rel_page
-1962,Laroplan 1962.pdf,8,10,441
-1969,Laroplan 1969.pdf,4,11,225
-1980,Laroplan 1980 (subject).pdf,2,9,154
-1994a,Laroplan 1994 (kursplaner).pdf,0,3,54
-1994b,Laroplan 1994 (lpo).pdf,0,4,39
-2011,Laroplan 2011.pdf,4,5,281
+year,file,first_nonindex_page,first_rel_page,last_rel_page,lgr_name
+1962,Laroplan 1962.pdf,8,10,441,Läroplan för grundskolan 1962
+1969,Laroplan 1969.pdf,4,11,225,Läroplan för grundskolan 1969
+1980,Laroplan 1980 (subject).pdf,2,9,154,"Läroplan för grundskolan. Allmän del: mål och riktlinjer, kursplaner, timplaner"
+1994a,Laroplan 1994 (kursplaner).pdf,0,3,54,Kursplaner för grundskolan 1994
+1994b,Laroplan 1994 (lpo).pdf,0,4,39,Läroplaner för det obligatoriska skolväsendet och de frivilliga skolformerna : Lpo 94
+2011,Laroplan 2011.pdf,4,5,281,"Läroplan för grundskolan, förskoleklassen och fritidshemmet 2011"
