@@ -87,7 +87,7 @@ Each folder hosts an `/output/` subfolder where output from each script is saved
 ### Citations
 
 * Hermo, Santiago, Christian Lundqvist, Miika Päällysaho, David Seim, Jesse M. Shapiro, and Stina Trollbäck. 2022. LaroplanOCR. Code and data repository at <https://github.com/JMSLab/LaroplanOCR>.
-* Hermo, Santiago, Miika Päällysaho, David Seim, and  Jesse M. Shapiro. 2022. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence. NBER Working Paper Number 29135. URL: <https://www.nber.org/papers/w29135>.
+* Hermo, Santiago, Miika Päällysaho, David Seim, and  Jesse M. Shapiro. 2022. Labor Market Returns and the Evolution of Cognitive Skills: Theory and Evidence. The Quarterly Journal of Economics, Volume 137, Issue 4, November 2022, Pages 2309–2361. DOI: <https://doi.org/10.1093/qje/qjac022>.
 
 
 ### Acknowledgments
